@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="fi">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
+  <meta name="theme-color" content="#0b1220" />
+  <title>PWA-pelit</title>
+
+  <link rel="manifest" href="./manifest.webmanifest" />
+  <link rel="stylesheet" href="./styles.css" />
+
+  <link rel="icon" href="./hub-icon-192.png" />
+</head>
+<body>
+  <header class="top">
+    <div class="brand">
+      <div class="logo" aria-hidden="true">◆</div>
+      <div class="brandText">
+        <h1 id="title">PWA-pelit</h1>
+        <p id="subtitle">Ladataan…</p>
+      </div>
+    </div>
+
+    <div class="tools">
+      <label class="search">
+        <span class="sr">Haku</span>
+        <input id="q" type="search" placeholder="Hae pelin nimellä tai tagilla…" autocomplete="off" />
+      </label>
+
+      <select id="tag" class="select">
+        <option value="">Kaikki</option>
+      </select>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="hint" id="installHint" hidden>
+      <div class="hintTitle">Asentaminen</div>
+      <div class="hintBody" id="hintBody"></div>
+    </section>
+
+    <section id="grid" class="grid" aria-live="polite"></section>
+  </main>
+
+  <footer class="foot">
+    <span id="count">0 peliä</span>
+    <span class="dot">•</span>
+    <span>Hubi toimii myös offline-tilassa (kun se on avattu kerran).</span>
+  </footer>
+
+  <script src="./app.js"></script>
+</body>
+</html>

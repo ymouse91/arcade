@@ -1,0 +1,308 @@
+{
+  "title": "PWA-pelit",
+  "subtitle": "Avaa peli tai asenna se aloitusnäyttöön.",
+  "games": [
+    {
+      "id": "asteroid",
+      "name": "Asteroid Escape",
+      "goal": "Siirrä paloja ja ratkaise pulmat törmäys- ja liikesäännöillä.",
+      "tags": ["logiikka", "liukupulma", "smartgames"],
+      "startUrl": "https://ymouse91.github.io/asteroid/",
+      "manifestUrl": "https://ymouse91.github.io/asteroid/manifest.webmanifest",
+      "iconFallback": "https://ymouse91.github.io/asteroid/icon-192.png"
+    },
+	{
+  "id": "rattaat",
+  "name": "Rattaat",
+  "goal": "Kytke rattaat oikein ja muodosta toimiva kokonaisuus ratkaisemalla pulmat siirtämällä ja pyörittämällä paloja.",
+  "tags": ["logiikka", "puzzle", "mekaniikka"],
+  "startUrl": "https://ymouse91.github.io/rattaat/",
+  "manifestUrl": "https://ymouse91.github.io/rattaat/manifest.webmanifest",
+  "iconFallback": "https://ymouse91.github.io/rattaat/icon-192.png"
+}
+,
+    {
+      "id": "nopat",
+      "name": "Nokkelat nopat",
+      "goal": "Täytä ruudukko vihjeiden mukaan niin, että summat täsmäävät.",
+      "tags": ["numerot", "asettelupulma", "smartgames"],
+      "startUrl": "https://ymouse91.github.io/nopat/",
+      "manifestUrl": "https://ymouse91.github.io/nopat/manifest.webmanifest",
+      "iconFallback": "https://ymouse91.github.io/nopat/icon-192.png"
+    },
+    {
+      "id": "nuts",
+      "name": "Pähkinät",
+      "goal": "Ratkaise siirtopulmat: pähkinät koloihin. Squirrels go nuts!",
+      "tags": ["logiikka", "liukupulma", "smartgames"],
+      "startUrl": "https://ymouse91.github.io/nuts/",
+      "manifestUrl": "https://ymouse91.github.io/nuts/manifest.webmanifest",
+      "iconFallback": "https://ymouse91.github.io/nuts/icon-192.png"
+    },
+    {
+      "id": "rushhour",
+      "name": "Rush Hour",
+      "goal": "Vapauta punainen auto ulos ruuhkasta mahdollisimman vähillä siirroilla.",
+      "tags": ["logiikka", "liukupulma", "thinkfun"],
+      "startUrl": "https://ymouse91.github.io/rushhour/",
+      "manifestUrl": "https://ymouse91.github.io/rushhour/manifest.webmanifest",
+      "iconFallback": "https://ymouse91.github.io/rushhour/icon-192.png"
+    },
+    {
+      "id": "catsandboxes",
+      "name": "Cats & Boxes",
+      "goal": "Sijoita ja siirrä palat niin, että kissat päätyvät laatikoihin.",
+      "tags": ["logiikka", "puzzle", "smartgames"],
+      "startUrl": "https://ymouse91.github.io/catsandboxes/",
+      "manifestUrl": "https://ymouse91.github.io/catsandboxes/manifest.json",
+      "iconFallback": "https://ymouse91.github.io/catsandboxes/icon-192.png"
+    },
+    {
+      "id": "lumiukko",
+      "name": "Lumiukko",
+      "goal": "Kokoa lumiukot siirtämällä paloja oikein.",
+      "tags": ["logiikka", "puzzle", "liukupulma","smartgames"],
+      "startUrl": "https://ymouse91.github.io/lumiukko/",
+      "manifestUrl": "https://ymouse91.github.io/lumiukko/manifest.json",
+      "iconFallback": "https://ymouse91.github.io/lumiukko/hsb.png"
+    },
+	{
+      "id": "crossing",
+      "name": "River Crossing",
+      "goal": "Ratkaise River Crossing -pulmat siirtämällä palat oikein. ",
+      "tags": ["logiikka", "puzzle", "thinkfun"],
+      "startUrl": "https://ymouse91.github.io/crossing/",
+      "manifestUrl": "https://ymouse91.github.io/crossing/manifest.webmanifest",
+      "iconFallback": "https://ymouse91.github.io/crossing/icon-192.png"
+    },
+    {
+      "id": "crossing2",
+      "name": "Crossing 2",
+      "goal": "Vaikeampi river crossing: siirrä ja järjestä palat sääntöjen mukaan. ",
+      "tags": ["logiikka", "puzzle","thinkfun"],
+      "startUrl": "https://ymouse91.github.io/crossing2/",
+      "manifestUrl": "https://ymouse91.github.io/crossing2/manifest.webmanifest",
+      "iconFallback": "https://ymouse91.github.io/crossing2/icon-192.png"
+    },
+	{
+      "id": "sheeps",
+      "name": "Sheeps",
+      "goal": "Ratkaise lampaisiin liittyvät palapelit. Counting Sheep.",
+      "tags": ["logiikka", "puzzle", "asettelupulma", "smartgames"],
+      "startUrl": "https://ymouse91.github.io/sheeps/",
+      "manifestUrl": "https://ymouse91.github.io/sheeps/manifest.json",
+      "iconFallback": "https://ymouse91.github.io/sheeps/lammas.png"
+    },
+    {
+      "id": "laskelampaita",
+      "name": "Laske lampaita",
+      "goal": "Counting Sheeps - PC/iPad optimoitus.",
+      "tags": ["logiikka", "puzzle", "asettelupulma","smartgames"],
+      "startUrl": "https://ymouse91.github.io/laskelampaita/",
+      "manifestUrl": "https://ymouse91.github.io/laskelampaita/manifest.json",
+      "iconFallback": "https://ymouse91.github.io/laskelampaita/lammas.png"
+    },
+    {
+      "id": "jumpin",
+      "name": "Jump In",
+      "goal": "Puput koloihin pulmat ratkeavat hyppäämällä sääntöjen mukaan. Jump In'",
+      "tags": ["logiikka", "smartgames", "puzzle"],
+      "startUrl": "https://ymouse91.github.io/jumpin/",
+      "manifestUrl": "https://ymouse91.github.io/jumpin/manifest.json",
+      "iconFallback": "https://ymouse91.github.io/jumpin/pwa_icon_512.png"
+    },
+
+    {
+      "id": "tipover",
+      "name": "TipOver",
+      "goal": "Kaada palikkapinoja niin, että reitti maaliin löytyy.",
+      "tags": ["logiikka", "puzzle", "thinkfun"],
+      "startUrl": "https://ymouse91.github.io/tipover/",
+      "manifestUrl": "https://ymouse91.github.io/tipover/manifest.webmanifest",
+      "iconFallback": "https://ymouse91.github.io/tipover/icon-192.png"
+    },
+    {
+      "id": "lunarlockout",
+      "name": "Lunar Lockout",
+      "goal": "Alkuperäinen Lunar Lockout -versio: ratkaise pulmat siirroilla. Lunar Landing. Lunar Lockout.",
+      "tags": ["logiikka", "puzzle", "liukupulma", "thinkfun"],
+      "startUrl": "https://ymouse91.github.io/lunarlockout/",
+      "manifestUrl": "https://ymouse91.github.io/lunarlockout/manifest.webmanifest",
+      "iconFallback": "https://ymouse91.github.io/lunarlockout/icon-192.png"
+    },
+    {
+      "id": "lockout2",
+      "name": "Lunar Lockout 2",
+      "goal": "Liikuta robotteja/nappeja laudan sääntöjen mukaan kohti tavoitetta.",
+      "tags": ["logiikka", "puzzle", "liukupulma", "thinkfun"],
+      "startUrl": "https://ymouse91.github.io/lockout2/",
+      "manifestUrl": "https://ymouse91.github.io/lockout2/manifest.webmanifest",
+      "iconFallback": "https://ymouse91.github.io/lockout2/icon-192.png"
+    },
+    {
+      "id": "temppeli",
+      "name": "Temppeli",
+      "goal": "Ratkaise temppelipulmat siirtämällä ja pyörittämällä paloja.",
+      "tags": ["logiikka", "puzzle"],
+      "startUrl": "https://ymouse91.github.io/temppeli/",
+      "manifestUrl": "https://ymouse91.github.io/temppeli/manifest.json",
+      "iconFallback": "https://ymouse91.github.io/temppeli/pwa_icon_512.png"
+    },
+    {
+      "id": "hoppers",
+      "name": "Hoppers",
+      "goal": "Hyppelypulma: tee siirrot niin, että punainen sammakko jää viimeiseksi peliin.",
+      "tags": ["logiikka", "smartgames"],
+      "startUrl": "https://ymouse91.github.io/hoppers/",
+      "manifestUrl": "https://ymouse91.github.io/hoppers/manifest.webmanifest",
+      "iconFallback": "https://ymouse91.github.io/hoppers/icon-192.png"
+    },
+    {
+      "id": "tavubingo",
+      "name": "Tavubingo",
+      "goal": "Pelaa bingoa tavuilla ja sanoilla (suomen kieli).",
+      "tags": ["sanapeli", "päättely"],
+      "startUrl": "https://ymouse91.github.io/tavubingo/",
+      "manifestUrl": "https://ymouse91.github.io/tavubingo/manifest.json",
+      "iconFallback": "https://ymouse91.github.io/tavubingo/icons/tavubingo-512.png"
+    },
+    {
+      "id": "Tavulaatikko",
+      "name": "Tavulaatikko",
+      "goal": "Sanapeli tavuilla: muodosta sanoja ja ratkaise ruudukko.",
+      "tags": ["sanapeli", "puzzle"],
+      "startUrl": "https://ymouse91.github.io/Tavulaatikko/",
+      "manifestUrl": "https://ymouse91.github.io/Tavulaatikko/manifest.webmanifest",
+      "iconFallback": "https://ymouse91.github.io/Tavulaatikko/icon-192.png"
+    },
+    {
+      "id": "onirim",
+      "name": "Onirim",
+      "goal": "Kortti-/logiikkapeli: pelaa läpi tavoitteeseen.",
+      "tags": ["korttipeli", "puzzle"],
+      "startUrl": "https://ymouse91.github.io/onirim/",
+      "manifestUrl": "https://ymouse91.github.io/onirim/manifest.json",
+      "iconFallback": "https://ymouse91.github.io/onirim/icon-192.png"
+    },
+    {
+      "id": "microrobots",
+      "name": "Microrobots",
+      "goal": "Ohjaa robotteja ruudukossa sääntöjen mukaan kohti tavoitetta.",
+      "tags": ["logiikka", "puzzle", "sokkelo"],
+      "startUrl": "https://ymouse91.github.io/microrobots/",
+      "manifestUrl": "https://ymouse91.github.io/microrobots/manifest.webmanifest",
+      "iconFallback": "https://ymouse91.github.io/microrobots/icon-192.png"
+    },
+    {
+      "id": "flowers",
+      "name": "Flowers",
+      "goal": "Ratkaise kukkapulmat siirtämällä paloja oikein.",
+      "tags": ["logiikka", "korttipeli"],
+      "startUrl": "https://ymouse91.github.io/flowers/",
+      "manifestUrl": "https://ymouse91.github.io/flowers/manifest.webmanifest",
+      "iconFallback": "https://ymouse91.github.io/flowers/icon-192.png"
+    },
+
+    {
+      "id": "kakuro",
+      "name": "Kakuro",
+      "goal": "Täytä numerot niin, että rivien ja sarakkeiden summat täsmäävät.",
+      "tags": ["numerot", "puzzle", "asettelupulma"],
+      "startUrl": "https://ymouse91.github.io/kakuro/",
+      "manifestUrl": "https://ymouse91.github.io/kakuro/manifest.json",
+      "iconFallback": "https://ymouse91.github.io/kakuro/icon-192.png"
+    },
+    {
+      "id": "qwinto",
+      "name": "Qwinto",
+      "goal": "Pistelaskenta/ruudukko: täytä ja optimoi heittojen mukaan.",
+      "tags": ["numerot", "nopat"],
+      "startUrl": "https://ymouse91.github.io/qwinto/",
+      "manifestUrl": "https://ymouse91.github.io/qwinto/manifest.json",
+      "iconFallback": "https://ymouse91.github.io/qwinto/icon-192.png"
+    },
+    {
+      "id": "farkle",
+      "name": "Farkle",
+      "goal": "Noppapeli: kerää pisteitä ja päätä milloin lopetat riskin.",
+      "tags": ["nopat", "työkalu"],
+      "startUrl": "https://ymouse91.github.io/farkle/",
+      "manifestUrl": "https://ymouse91.github.io/farkle/manifest.webmanifest",
+      "iconFallback": "https://ymouse91.github.io/farkle/icon-192.png"
+    },
+    {
+      "id": "lostcities",
+      "name": "Lost Cities",
+      "goal": "Korttipeli: rakenna retkikunnat ja hallitse riskit.",
+      "tags": ["korttipeli", "peli", "Reiner Knizian"],
+      "startUrl": "https://ymouse91.github.io/lostcities/",
+      "manifestUrl": "https://ymouse91.github.io/lostcities/manifest.json",
+      "iconFallback": "https://ymouse91.github.io/lostcities/icon-192.png"
+    },
+    {
+      "id": "clever",
+      "name": "Clever",
+      "goal": "Noppa-/pistelaskentapeli ruudukolla. That's Pretty Clever!",
+      "tags": ["nopat", "peli", "Wolfgang Warsch"],
+      "startUrl": "https://ymouse91.github.io/clever/",
+      "manifestUrl": "https://ymouse91.github.io/clever/manifest.webmanifest",
+      "iconFallback": "https://ymouse91.github.io/clever/icon-192.png"
+    },
+    {
+      "id": "sid",
+      "name": "Sid",
+      "goal": "Yksinpelattava noppapeli: optimoi pisteet sääntöjen mukaan. Sackson Solitaire Dice",
+      "tags": ["nopat", "solitaire", "Sid Sackson"],
+      "startUrl": "https://ymouse91.github.io/sid/",
+      "manifestUrl": "https://ymouse91.github.io/sid/manifest.webmanifest",
+      "iconFallback": "https://ymouse91.github.io/sid/icon-192.png"
+    },
+
+    {
+      "id": "encore-pwa",
+      "name": "Encore",
+      "goal": "Pelaa Encore-tyylinen numero-/ruutulogikka.",
+      "tags": ["puzzle", "numerot", "Inka ja Markus Brand"],
+      "startUrl": "https://ymouse91.github.io/encore-pwa/",
+      "manifestUrl": "https://ymouse91.github.io/encore-pwa/manifest.json",
+      "iconFallback": "https://ymouse91.github.io/encore-pwa/icon-192.png"
+    },
+    {
+      "id": "pistelaskuri-pwa",
+      "name": "Pistelaskuri",
+      "goal": "Yleiskäyttöinen pisteiden laskenta ja kirjaus (apuohjelma).",
+      "tags": ["työkalu"],
+      "startUrl": "https://ymouse91.github.io/pistelaskuri-pwa/",
+      "manifestUrl": "https://ymouse91.github.io/pistelaskuri-pwa/manifest.json",
+      "iconFallback": "https://ymouse91.github.io/pistelaskuri-pwa/icon-192.png"
+    },
+    {
+      "id": "ratko",
+      "name": "Ratko",
+      "goal": "Ristisanaratkoja (Kotus-sanalista) – apuohjelma.",
+      "tags": ["työkalu", "sanat"],
+      "startUrl": "https://ymouse91.github.io/ratko/",
+      "manifestUrl": "https://ymouse91.github.io/ratko/manifest.webmanifest",
+      "iconFallback": "https://ymouse91.github.io/ratko/icon-192.png"
+    },
+    {
+      "id": "sanahaku",
+      "name": "Sanahaku",
+      "goal": "Tavukolmio-sanahaku / sanatyökalu.",
+      "tags": ["työkalu", "sanat"],
+      "startUrl": "https://ymouse91.github.io/sanahaku/",
+      "manifestUrl": "https://ymouse91.github.io/sanahaku/manifest.json",
+      "iconFallback": "https://ymouse91.github.io/sanahaku/icon-192.png"
+    },
+
+    {
+      "id": "tavukolmio",
+      "name": "Tavukolmio",
+      "goal": "Tavukolmio-projekti: sanapeli tavuilla.",
+      "tags": ["sanapeli", "peli"],
+      "startUrl": "https://ymouse91.github.io/tavukolmio/",
+      "manifestUrl": "https://ymouse91.github.io/tavukolmio/manifest.json",
+      "iconFallback": "https://ymouse91.github.io/tavukolmio/icon-192.png"
+    }
+  ]
+}
