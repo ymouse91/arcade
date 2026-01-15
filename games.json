@@ -14,8 +14,8 @@
 	{
   "id": "rattaat",
   "name": "Rattaat",
-  "goal": "Kytke rattaat oikein ja muodosta toimiva kokonaisuus ratkaisemalla pulmat siirtämällä ja pyörittämällä paloja.",
-  "tags": ["logiikka", "puzzle", "mekaniikka"],
+  "goal": "Asettele palat ja kytke rattaat oikein, niin muodostuu voittava kokonaisuus.",
+  "tags": ["logiikka", "puzzle", "asettelupulma", "smartgames"],
   "startUrl": "https://ymouse91.github.io/rattaat/",
   "manifestUrl": "https://ymouse91.github.io/rattaat/manifest.webmanifest",
   "iconFallback": "https://ymouse91.github.io/rattaat/icon-192.png"
@@ -29,6 +29,15 @@
       "startUrl": "https://ymouse91.github.io/nopat/",
       "manifestUrl": "https://ymouse91.github.io/nopat/manifest.webmanifest",
       "iconFallback": "https://ymouse91.github.io/nopat/icon-192.png"
+    },
+	{
+      "id": "kakuro",
+      "name": "Kakuro",
+      "goal": "Täytä numerot niin, että rivien ja sarakkeiden summat täsmäävät.",
+      "tags": ["numerot", "puzzle", "asettelupulma"],
+      "startUrl": "https://ymouse91.github.io/kakuro/",
+      "manifestUrl": "https://ymouse91.github.io/kakuro/manifest.json",
+      "iconFallback": "https://ymouse91.github.io/kakuro/icon-192.png"
     },
     {
       "id": "nuts",
@@ -51,7 +60,7 @@
     {
       "id": "catsandboxes",
       "name": "Cats & Boxes",
-      "goal": "Sijoita ja siirrä palat niin, että kissat päätyvät laatikoihin.",
+      "goal": "Siirrä palat niin, että kissat päätyvät laatikoihin.",
       "tags": ["logiikka", "puzzle", "smartgames"],
       "startUrl": "https://ymouse91.github.io/catsandboxes/",
       "manifestUrl": "https://ymouse91.github.io/catsandboxes/manifest.json",
@@ -142,7 +151,7 @@
     {
       "id": "temppeli",
       "name": "Temppeli",
-      "goal": "Ratkaise temppelipulmat siirtämällä ja pyörittämällä paloja.",
+      "goal": "Etsi reitti perille siirtämällä ja työntämällä laatikoita.",
       "tags": ["logiikka", "puzzle"],
       "startUrl": "https://ymouse91.github.io/temppeli/",
       "manifestUrl": "https://ymouse91.github.io/temppeli/manifest.json",
@@ -156,15 +165,6 @@
       "startUrl": "https://ymouse91.github.io/hoppers/",
       "manifestUrl": "https://ymouse91.github.io/hoppers/manifest.webmanifest",
       "iconFallback": "https://ymouse91.github.io/hoppers/icon-192.png"
-    },
-    {
-      "id": "tavubingo",
-      "name": "Tavubingo",
-      "goal": "Pelaa bingoa tavuilla ja sanoilla (suomen kieli).",
-      "tags": ["sanapeli", "päättely"],
-      "startUrl": "https://ymouse91.github.io/tavubingo/",
-      "manifestUrl": "https://ymouse91.github.io/tavubingo/manifest.json",
-      "iconFallback": "https://ymouse91.github.io/tavubingo/icons/tavubingo-512.png"
     },
     {
       "id": "Tavulaatikko",
@@ -201,16 +201,6 @@
       "startUrl": "https://ymouse91.github.io/flowers/",
       "manifestUrl": "https://ymouse91.github.io/flowers/manifest.webmanifest",
       "iconFallback": "https://ymouse91.github.io/flowers/icon-192.png"
-    },
-
-    {
-      "id": "kakuro",
-      "name": "Kakuro",
-      "goal": "Täytä numerot niin, että rivien ja sarakkeiden summat täsmäävät.",
-      "tags": ["numerot", "puzzle", "asettelupulma"],
-      "startUrl": "https://ymouse91.github.io/kakuro/",
-      "manifestUrl": "https://ymouse91.github.io/kakuro/manifest.json",
-      "iconFallback": "https://ymouse91.github.io/kakuro/icon-192.png"
     },
     {
       "id": "qwinto",
@@ -262,10 +252,19 @@
       "id": "encore-pwa",
       "name": "Encore",
       "goal": "Pelaa Encore-tyylinen numero-/ruutulogikka.",
-      "tags": ["puzzle", "numerot", "Inka ja Markus Brand"],
+      "tags": ["puzzle", "nopat", "Inka ja Markus Brand"],
       "startUrl": "https://ymouse91.github.io/encore-pwa/",
       "manifestUrl": "https://ymouse91.github.io/encore-pwa/manifest.json",
       "iconFallback": "https://ymouse91.github.io/encore-pwa/icon-192.png"
+    },
+	{
+      "id": "tavubingo",
+      "name": "Tavubingo",
+      "goal": "Pelaa bingoa tavuilla ja sanoilla (suomen kieli).",
+      "tags": ["sanapeli", "päättely"],
+      "startUrl": "https://ymouse91.github.io/tavubingo/",
+      "manifestUrl": "https://ymouse91.github.io/tavubingo/manifest.json",
+      "iconFallback": "https://ymouse91.github.io/tavubingo/icons/tavubingo-512.png"
     },
     {
       "id": "pistelaskuri-pwa",
