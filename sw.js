@@ -1,4 +1,4 @@
-const CACHE = "arcade-v1";
+const CACHE = "arcade-v2";
 const ASSETS = [
   "./",
   "./index.html",
@@ -6,8 +6,7 @@ const ASSETS = [
   "./app.js",
   "./games.json",
   "./manifest.webmanifest",
-  "./hub-icon-192.png",
-  "./hub-icon-512.png"
+  "./icon192.png",
 ];
 
 self.addEventListener("install", (e)=>{
