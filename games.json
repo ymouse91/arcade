@@ -11,10 +11,10 @@
       "manifestUrl": "https://ymouse91.github.io/asteroid/manifest.webmanifest",
     },
 	{
-  "id": "piiri",
+  "id": "virtapiiri",
   "name": "IQ Circuit",
-  "goal": "Yhdistä pisteet oikein: sijoita palat niin, että piiri sulkeutuu ja tavoite täyttyy ilman katkoja.",
-  "tags": ["logiikka", "puzzle", "asettelupulma"],
+  "goal": "iPhone versio pelistä IQ circuit. Yhdistä pisteet oikein: sijoita palat niin, että piiri sulkeutuu ja tavoite täyttyy ilman katkoja.",
+  "tags": ["logiikka", "asettelupulma", "smartgames"],
   "startUrl": "https://ymouse91.github.io/piiri/index.html",
   "manifestUrl": "https://ymouse91.github.io/piiri/manifest.webmanifest"
 },
@@ -22,7 +22,7 @@
   "id": "piiri-iphone",
   "name": "IQ Circuit",
   "goal": "Yhdistä pisteet oikein: sijoita palat niin, että piiri sulkeutuu ja tavoite täyttyy ilman katkoja.",
-  "tags": ["logiikka", "puzzle", "asettelupulma"],
+  "tags": ["logiikka", "asettelupulma", "smartgames"],
   "startUrl": "https://ymouse91.github.io/piiri/index-iphone.html",
   "manifestUrl": "https://ymouse91.github.io/piiri/manifest-iphone.webmanifest"
 },
