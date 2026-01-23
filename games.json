@@ -8,7 +8,7 @@
       "goal": "Siirrä paloja ja ratkaise pulmat törmäys- ja liikesäännöillä.",
       "tags": ["logiikka", "liukupulma", "smartgames"],
       "startUrl": "https://ymouse91.github.io/asteroid/",
-      "manifestUrl": "https://ymouse91.github.io/asteroid/manifest.webmanifest",
+      "manifestUrl": "https://ymouse91.github.io/asteroid/manifest.webmanifest"
     },
 	{
   "id": "virtapiiri",
@@ -20,7 +20,7 @@
 },
   {
   "id": "piiri-iphone",
-  "name": "IQ Circuit",
+  "name": "Virtapiiri",
   "goal": "Yhdistä pisteet oikein: sijoita palat niin, että piiri sulkeutuu ja tavoite täyttyy ilman katkoja.",
   "tags": ["logiikka", "asettelupulma", "smartgames"],
   "startUrl": "https://ymouse91.github.io/piiri/index-iphone.html",
@@ -33,7 +33,7 @@
   "goal": "Asettele palat ja kytke rattaat oikein, niin muodostuu voittava kokonaisuus.",
   "tags": ["logiikka", "puzzle", "asettelupulma", "smartgames"],
   "startUrl": "https://ymouse91.github.io/rattaat/",
-  "manifestUrl": "https://ymouse91.github.io/rattaat/manifest.webmanifest",
+  "manifestUrl": "https://ymouse91.github.io/rattaat/manifest.webmanifest"
 }
 ,
     {
@@ -96,7 +96,7 @@
       "goal": "Ratkaise River Crossing -pulmat siirtämällä palat oikein. ",
       "tags": ["logiikka", "puzzle", "thinkfun"],
       "startUrl": "https://ymouse91.github.io/crossing/",
-      "manifestUrl": "https://ymouse91.github.io/crossing/manifest.webmanifest",
+      "manifestUrl": "https://ymouse91.github.io/crossing/manifest.json",
       "iconFallback": "https://ymouse91.github.io/crossing/icon-192.png"
     },
     {
@@ -149,18 +149,18 @@
       "id": "lunarlockout",
       "name": "Lunar Lockout",
       "goal": "Alkuperäinen Lunar Lockout -versio: ratkaise pulmat siirroilla. Lunar Landing. Lunar Lockout.",
-      "tags": ["logiikka", "puzzle", "liukupulma", "thinkfun"],
+      "tags": ["logiikka", "liukupulma", "thinkfun"],
       "startUrl": "https://ymouse91.github.io/lunarlockout/",
-      "manifestUrl": "https://ymouse91.github.io/lunarlockout/manifest.webmanifest",
+      "manifestUrl": "https://ymouse91.github.io/lunarlockout/manifest.json",
       "iconFallback": "https://ymouse91.github.io/lunarlockout/icon-192.png"
     },
     {
       "id": "lockout2",
       "name": "Lunar Lockout 2",
       "goal": "Liikuta robotteja/nappeja laudan sääntöjen mukaan kohti tavoitetta.",
-      "tags": ["logiikka", "puzzle", "liukupulma", "thinkfun"],
+      "tags": ["logiikka", "liukupulma", "thinkfun"],
       "startUrl": "https://ymouse91.github.io/lockout2/",
-      "manifestUrl": "https://ymouse91.github.io/lockout2/manifest.webmanifest",
+      "manifestUrl": "https://ymouse91.github.io/lockout2/manifest.json",
       "iconFallback": "https://ymouse91.github.io/lockout2/icon-192.png"
     },
     {
@@ -178,7 +178,7 @@
       "goal": "Hyppelypulma: tee siirrot niin, että punainen sammakko jää viimeiseksi peliin.",
       "tags": ["logiikka", "smartgames"],
       "startUrl": "https://ymouse91.github.io/hoppers/",
-      "manifestUrl": "https://ymouse91.github.io/hoppers/manifest.webmanifest",
+      "manifestUrl": "https://ymouse91.github.io/hoppers/manifest.json",
       "iconFallback": "https://ymouse91.github.io/hoppers/icon-192.png"
     },
     {
@@ -187,7 +187,7 @@
       "goal": "Sanapeli tavuilla: muodosta sanoja ja ratkaise ruudukko.",
       "tags": ["sanapeli", "puzzle"],
       "startUrl": "https://ymouse91.github.io/Tavulaatikko/",
-      "manifestUrl": "https://ymouse91.github.io/Tavulaatikko/manifest.webmanifest",
+      "manifestUrl": "https://ymouse91.github.io/Tavulaatikko/manifest.json",
       "iconFallback": "https://ymouse91.github.io/Tavulaatikko/icon-192.png"
     },
     {
@@ -296,7 +296,7 @@
       "goal": "Ristisanaratkoja (Kotus-sanalista) – apuohjelma.",
       "tags": ["työkalu", "sanat"],
       "startUrl": "https://ymouse91.github.io/ratko/",
-      "manifestUrl": "https://ymouse91.github.io/ratko/manifest.webmanifest",
+      "manifestUrl": "https://ymouse91.github.io/ratko/manifest.json",
       "iconFallback": "https://ymouse91.github.io/ratko/icon-192.png"
     },
     {
