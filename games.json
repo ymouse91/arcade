@@ -2,15 +2,31 @@
   "title": "PWA-pelit",
   "subtitle": "Avaa peli tai asenna se aloitusnäyttöön.",
   "games": [
-    {
+      {
       "id": "asteroid",
       "name": "Asteroid Escape",
       "goal": "Siirrä paloja ja ratkaise pulmat törmäys- ja liikesäännöillä.",
       "tags": ["logiikka", "liukupulma", "smartgames"],
       "startUrl": "https://ymouse91.github.io/asteroid/",
       "manifestUrl": "https://ymouse91.github.io/asteroid/manifest.webmanifest",
-      "iconFallback": "https://ymouse91.github.io/asteroid/icon-192.png"
     },
+	{
+  "id": "piiri",
+  "name": "IQ Circuit",
+  "goal": "Yhdistä pisteet oikein: sijoita palat niin, että piiri sulkeutuu ja tavoite täyttyy ilman katkoja.",
+  "tags": ["logiikka", "puzzle", "asettelupulma"],
+  "startUrl": "https://ymouse91.github.io/piiri/index.html",
+  "manifestUrl": "https://ymouse91.github.io/piiri/manifest.webmanifest"
+},
+  {
+  "id": "piiri-iphone",
+  "name": "IQ Circuit",
+  "goal": "Yhdistä pisteet oikein: sijoita palat niin, että piiri sulkeutuu ja tavoite täyttyy ilman katkoja.",
+  "tags": ["logiikka", "puzzle", "asettelupulma"],
+  "startUrl": "https://ymouse91.github.io/piiri/index-iphone.html",
+  "manifestUrl": "https://ymouse91.github.io/piiri/manifest-iphone.webmanifest"
+},
+
 	{
   "id": "rattaat",
   "name": "Rattaat",
@@ -18,7 +34,6 @@
   "tags": ["logiikka", "puzzle", "asettelupulma", "smartgames"],
   "startUrl": "https://ymouse91.github.io/rattaat/",
   "manifestUrl": "https://ymouse91.github.io/rattaat/manifest.webmanifest",
-  "iconFallback": "https://ymouse91.github.io/rattaat/icon-192.png"
 }
 ,
     {
