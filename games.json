@@ -25,8 +25,9 @@
   "tags": ["logiikka", "asettelupulma", "smartgames"],
   "startUrl": "https://ymouse91.github.io/piiri/index-iphone.html",
   "manifestUrl": "https://ymouse91.github.io/piiri/manifest-iphone.webmanifest"
-}, {
-  "id": "Battle Sheep",
+}, 
+  {
+  "id": "Battle-Sheep",
   "name": "Battle Sheep",
   "goal": "Valloita mahdollisimman paljon pelialuetta. PC/iPad peli 2-4 hengelle.",
   "tags": ["strategia", "lautapeli", "blue orange", "Francesco Rotta"],
