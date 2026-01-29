@@ -26,7 +26,13 @@
   "startUrl": "https://ymouse91.github.io/piiri/index-iphone.html",
   "manifestUrl": "https://ymouse91.github.io/piiri/manifest-iphone.webmanifest"
 },
-
+  "id": "Battle Sheep",
+  "name": "Battle Sheep",
+  "goal": "Valloita mahdollisimman paljon pelialuetta. PC/iPad peli 2-4 hengelle.",
+  "tags": ["taktiikka", "lautapeli", "blue orange", "Francesco Rotta"],
+  "startUrl": "https://ymouse91.github.io/battle/index.html",
+  "manifestUrl": "https://ymouse91.github.io/battle/manifest.webmanifest"
+},
 	{
   "id": "rattaat",
   "name": "Rattaat",
@@ -221,7 +227,7 @@
       "id": "qwinto",
       "name": "Qwinto",
       "goal": "Pistelaskenta/ruudukko: täytä ja optimoi heittojen mukaan.",
-      "tags": ["numerot", "nopat"],
+      "tags": ["numerot", "nopat","lautapeli"],
       "startUrl": "https://ymouse91.github.io/qwinto/",
       "manifestUrl": "https://ymouse91.github.io/qwinto/manifest.json",
       "iconFallback": "https://ymouse91.github.io/qwinto/icon-192.png"
@@ -248,7 +254,7 @@
       "id": "clever",
       "name": "Clever",
       "goal": "Noppa-/pistelaskentapeli ruudukolla. That's Pretty Clever!",
-      "tags": ["nopat", "peli", "Wolfgang Warsch"],
+      "tags": ["nopat", "lautapeli", "Wolfgang Warsch"],
       "startUrl": "https://ymouse91.github.io/clever/",
       "manifestUrl": "https://ymouse91.github.io/clever/manifest.webmanifest",
       "iconFallback": "https://ymouse91.github.io/clever/icon-192.png"
@@ -267,7 +273,7 @@
       "id": "encore-pwa",
       "name": "Encore",
       "goal": "Pelaa Encore-tyylinen numero-/ruutulogikka.",
-      "tags": ["puzzle", "nopat", "Inka ja Markus Brand"],
+      "tags": ["puzzle", "nopat", "lautapeli", "Inka ja Markus Brand"],
       "startUrl": "https://ymouse91.github.io/encore-pwa/",
       "manifestUrl": "https://ymouse91.github.io/encore-pwa/manifest.json",
       "iconFallback": "https://ymouse91.github.io/encore-pwa/icon-192.png"
@@ -313,7 +319,7 @@
       "id": "tavukolmio",
       "name": "Tavukolmio",
       "goal": "Tavukolmio-projekti: sanapeli tavuilla.",
-      "tags": ["sanapeli", "peli"],
+      "tags": ["sanapeli", "lautapeli"],
       "startUrl": "https://ymouse91.github.io/tavukolmio/",
       "manifestUrl": "https://ymouse91.github.io/tavukolmio/manifest.json",
       "iconFallback": "https://ymouse91.github.io/tavukolmio/icon-192.png"
