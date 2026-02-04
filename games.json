@@ -2,6 +2,42 @@
   "title": "PWA-pelit",
   "subtitle": "Avaa peli tai asenna se aloitusnäyttöön.",
   "games": [
+  {
+  "id": "gipf",
+  "name": "GIPF",
+  "goal": "Työnnä nappuloita reunasta ja hallitse lautaa: rakenna neljän suoria ja pakota vastustajan palat pois – pelaa itsesi voittoon.",
+  "tags": ["abstrakti", "kaksinpeli", "gipf"],
+  "startUrl": "https://ymouse91.github.io/gipf/",
+  "manifestUrl": "https://ymouse91.github.io/gipf/manifest.webmanifest"
+}
+,
+{
+  "id": "dvonn",
+  "name": "DVONN",
+  "goal": "Pinoa ja yhdistä: pidä pinot yhteydessä DVONN-kiviin ja kerää lopussa korkeat pinot – eniten pisteitä saanut voittaa.",
+  "tags": ["abstrakti", "kaksinpeli", "gipf" , "ai-vastustaja"],
+  "startUrl": "https://ymouse91.github.io/dvonn/",
+  "manifestUrl": "https://ymouse91.github.io/dvonn/manifest.webmanifest"
+}
+,
+{
+  "id": "yinsh",
+  "name": "YINSH",
+  "goal": "GIPF-projektin klassikko. Liikuta renkaita ja käännä merkkejä: muodosta ensimmäisenä viiden suora omista merkeistä ja voita.",
+  "tags": ["abstrakti", "kaksinpeli", "gipf"],
+  "startUrl": "https://ymouse91.github.io/yinsh/",
+  "manifestUrl": "https://ymouse91.github.io/yinsh/manifest.webmanifest"
+}
+,
+{
+  "id": "ricochet-robots",
+  "name": "Risat robotit",
+  "goal": "Nopea logiikkapulma. Ohjaa robotteja liukumaan seiniin asti ja käytä muita robotteja esteinä: löydä lyhin reitti oikea robotti kohteeseen. Ricochet Robots",
+  "tags": ["logiikka", "moninpeli", "alex-randolph"],
+  "startUrl": "https://ymouse91.github.io/risatrobotit/",
+  "manifestUrl": "https://ymouse91.github.io/risatrobotit/manifest.webmanifest"
+}
+,
       {
       "id": "asteroid",
       "name": "Asteroid Escape",
