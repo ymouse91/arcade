@@ -33,7 +33,7 @@
   "id": "ricochet-robots",
   "name": "Risat robotit",
   "goal": "Nopea logiikkapulma. Ohjaa robotteja liukumaan seiniin asti ja käytä muita robotteja esteinä: löydä lyhin reitti oikea robotti kohteeseen. Ricochet Robots",
-  "tags": ["logiikka", "moninpeli", "alex-randolph"],
+  "tags": ["logiikka", "moninpeli", "alex randolph"],
   "startUrl": "https://ymouse91.github.io/risatrobotit/",
   "manifestUrl": "https://ymouse91.github.io/risatrobotit/manifest.webmanifest"
 }
@@ -66,7 +66,7 @@
   "id": "Battle-Sheep",
   "name": "Battle Sheep",
   "goal": "Valloita mahdollisimman paljon pelialuetta. PC/iPad peli 2-4 hengelle.",
-  "tags": ["strategia", "lautapeli", "blue orange", "Francesco Rotta"],
+  "tags": ["strategia", "lautapeli", "moninpeli", "blue orange", "Francesco Rotta"],
   "startUrl": "https://ymouse91.github.io/battle/index.html",
   "manifestUrl": "https://ymouse91.github.io/battle/manifest.webmanifest"
 },
