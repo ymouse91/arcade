@@ -308,9 +308,9 @@
     },
     {
       "id": "sid",
-      "name": "Sid",
+      "name": "Solitaire Dice",
       "goal": "Yksinpelattava noppapeli: optimoi pisteet sääntöjen mukaan. Sackson Solitaire Dice",
-      "tags": ["nopat", "solitaire", "Sid Sackson"],
+      "tags": ["nopat", "solitaire", "sid sackson"],
       "startUrl": "https://ymouse91.github.io/sid/",
       "manifestUrl": "https://ymouse91.github.io/sid/manifest.webmanifest",
       "iconFallback": "https://ymouse91.github.io/sid/icon-192.png"
