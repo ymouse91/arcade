@@ -6,7 +6,7 @@
   "id": "cantstop",
   "name": "Can't Stop",
   "goal": "Etene noppien avulla useassa sarakkeessa ja päätä itse, milloin on aika pysähtyä – ahneus voi kostautua. Ensimmäinen pelaaja, joka voittaa kolme saraketta, voittaa pelin.",
-  "tags": ["noppapeli", "moninpeli"],
+  "tags": ["noppapeli", "moninpeli", "sid sackson"],
   "startUrl": "https://ymouse91.github.io/cantstop/",
   "manifestUrl": "https://ymouse91.github.io/cantstop/manifest.webmanifest"
 }
@@ -47,6 +47,15 @@
   "manifestUrl": "https://ymouse91.github.io/risatrobotit/manifest.webmanifest"
 }
 ,
+    {
+      "id": "microrobots",
+      "name": "Micro robots",
+      "goal": "Ohjaa robotteja ruudukossa sääntöjen mukaan kohti tavoitetta.",
+      "tags": ["logiikka", "puzzle", "sokkelo", "alex randolph"],
+      "startUrl": "https://ymouse91.github.io/microrobots/",
+      "manifestUrl": "https://ymouse91.github.io/microrobots/manifest.webmanifest",
+      "iconFallback": "https://ymouse91.github.io/microrobots/icon-192.png"
+    },
       {
       "id": "asteroid",
       "name": "Asteroid Escape",
@@ -251,15 +260,7 @@
       "manifestUrl": "https://ymouse91.github.io/onirim/manifest.json",
       "iconFallback": "https://ymouse91.github.io/onirim/icon-192.png"
     },
-    {
-      "id": "microrobots",
-      "name": "Microrobots",
-      "goal": "Ohjaa robotteja ruudukossa sääntöjen mukaan kohti tavoitetta.",
-      "tags": ["logiikka", "puzzle", "sokkelo"],
-      "startUrl": "https://ymouse91.github.io/microrobots/",
-      "manifestUrl": "https://ymouse91.github.io/microrobots/manifest.webmanifest",
-      "iconFallback": "https://ymouse91.github.io/microrobots/icon-192.png"
-    },
+
     {
       "id": "flowers",
       "name": "Flowers",
