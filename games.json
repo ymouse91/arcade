@@ -3,6 +3,15 @@
   "subtitle": "Avaa peli tai asenna se aloitusnäyttöön.",
   "games": [
   {
+  "id": "cantstop",
+  "name": "Can't Stop",
+  "goal": "Etene noppien avulla useassa sarakkeessa ja päätä itse, milloin on aika pysähtyä – ahneus voi kostautua. Ensimmäinen pelaaja, joka voittaa kolme saraketta, voittaa pelin.",
+  "tags": ["noppapeli", "moninpeli"],
+  "startUrl": "https://ymouse91.github.io/cantstop/",
+  "manifestUrl": "https://ymouse91.github.io/cantstop/manifest.webmanifest"
+}
+,
+  {
   "id": "gipf",
   "name": "GIPF",
   "goal": "Työnnä nappuloita reunasta ja hallitse lautaa: rakenna neljän suoria ja pakota vastustajan palat pois – pelaa itsesi voittoon.",
