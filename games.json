@@ -3,6 +3,14 @@
   "subtitle": "Avaa peli tai asenna se aloitusnäyttöön.",
   "games": [
   {
+  "id": "anti-virus",
+  "name": "Anti-Virus",
+  "goal": "Liikuta erikoispaloja diagonaalisesti ja vapauta punainen virus palapelin aukosta.",
+  "tags": ["logiikka", "liukupulma", "yksinpeli", "smartgames"],
+  "startUrl": "https://ymouse91.github.io/anti-virus/",
+  "manifestUrl": "https://ymouse91.github.io/anti-virus/manifest.webmanifest"
+},
+  {
   "id": "cantstop",
   "name": "Can't Stop",
   "goal": "Etene noppien avulla useassa sarakkeessa ja päätä itse, milloin on aika pysähtyä – ahneus voi kostautua. Ensimmäinen pelaaja, joka voittaa kolme saraketta, voittaa pelin.",
