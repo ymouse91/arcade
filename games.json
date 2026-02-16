@@ -3,6 +3,15 @@
   "subtitle": "Avaa peli tai asenna se aloitusnäyttöön.",
   "games": [
   {
+  "id": "chess-peace",
+  "name": "Chess Peace",
+  "goal": "Asettele laatat pelilaudalle niin, että vastustajien shakkinappulat eivät uhkaa toisiaan.",
+  "tags": ["asettelupulma", "shakki", "yksinpeli", "logiikka"],
+  "startUrl": "https://ymouse91.github.io/chesspeace/",
+  "manifestUrl": "https://ymouse91.github.io/chesspeace/manifest.webmanifest"
+}
+,
+  {
   "id": "anti-virus",
   "name": "Anti-Virus",
   "goal": "Liikuta erikoispaloja diagonaalisesti ja vapauta punainen virus palapelin aukosta.",
