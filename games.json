@@ -5,12 +5,20 @@
   {
   "id": "chess-peace",
   "name": "Chess Peace",
-  "goal": "Asettele laatat pelilaudalle niin, että vastustajien shakkinappulat eivät uhkaa toisiaan.",
-  "tags": ["asettelupulma", "shakki", "yksinpeli", "logiikka"],
+  "goal": "Asettele laatat pelilaudalle niin, että vastustajien shakkinappulat eivät uhkaa toisiaan. iPad ja PC versio",
+  "tags": ["asettelupulma", "shakki", "yksinpeli", "logiikka", "ipad/pc"],
   "startUrl": "https://ymouse91.github.io/chesspeace/",
   "manifestUrl": "https://ymouse91.github.io/chesspeace/manifest.webmanifest"
 }
 ,
+  {
+  "id": "chess-peace",
+  "name": "Chess Peace",
+  "goal": "Asettele laatat pelilaudalle niin, että vastustajien shakkinappulat eivät uhkaa toisiaan. iPhone versio",
+  "tags": ["asettelupulma", "shakki", "yksinpeli", "logiikka", "iphone"],
+  "startUrl": "https://ymouse91.github.io/iphone/",
+  "manifestUrl": "https://ymouse91.github.io/iphone/manifest.webmanifest"
+},
   {
   "id": "anti-virus",
   "name": "Anti-Virus",
