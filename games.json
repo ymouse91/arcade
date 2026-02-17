@@ -6,7 +6,7 @@
   "id": "chess-peace",
   "name": "Chess Peace",
   "goal": "Asettele laatat pelilaudalle niin, että vastustajien shakkinappulat eivät uhkaa toisiaan. iPad ja PC versio",
-  "tags": ["asettelupulma", "shakki", "yksinpeli", "logiikka", "ipad/pc"],
+  "tags": ["asettelupulma", "shakki", "yksinpeli", "logiikka", "ipad/pc", "smartgames"],
   "startUrl": "https://ymouse91.github.io/chesspeace/",
   "manifestUrl": "https://ymouse91.github.io/chesspeace/manifest.webmanifest"
 }
@@ -15,7 +15,7 @@
   "id": "chess-iphone",
   "name": "iChess",
   "goal": "Asettele laatat pelilaudalle niin, että vastustajien shakkinappulat eivät uhkaa toisiaan. iPhone versio",
-  "tags": ["asettelupulma", "shakki", "yksinpeli", "logiikka", "iphone"],
+  "tags": ["asettelupulma", "shakki", "yksinpeli", "logiikka", "iphone","smartgames"],
   "startUrl": "https://ymouse91.github.io/iphone/",
   "manifestUrl": "https://ymouse91.github.io/iphone/manifest.webmanifest"
 },
@@ -101,7 +101,7 @@
   "id": "piiri-iphone",
   "name": "Virtapiiri",
   "goal": "iPhone versio pelistä IQ Circuit. Yhdistä pisteet oikein: sijoita palat niin, että piiri sulkeutuu ja tavoite täyttyy ilman katkoja.",
-  "tags": ["logiikka", "asettelupulma", "smartgames"],
+  "tags": ["logiikka", "asettelupulma", "smartgames","iphone"],
   "startUrl": "https://ymouse91.github.io/piiri/index-iphone.html",
   "manifestUrl": "https://ymouse91.github.io/piiri/manifest-iphone.webmanifest"
 }, 
@@ -109,7 +109,7 @@
   "id": "Battle-Sheep",
   "name": "Battle Sheep",
   "goal": "Valloita mahdollisimman paljon pelialuetta. PC/iPad peli 2-4 hengelle.",
-  "tags": ["strategia", "lautapeli", "moninpeli", "blue orange", "Francesco Rotta"],
+  "tags": ["strategia", "lautapeli", "moninpeli", "blue orange", "Francesco Rotta","ipad/pc"],
   "startUrl": "https://ymouse91.github.io/battle/index.html",
   "manifestUrl": "https://ymouse91.github.io/battle/manifest.webmanifest"
 },
