@@ -12,8 +12,8 @@
 }
 ,
   {
-  "id": "chess-peace",
-  "name": "Chess Peace",
+  "id": "chess-iphone",
+  "name": "iChess",
   "goal": "Asettele laatat pelilaudalle niin, että vastustajien shakkinappulat eivät uhkaa toisiaan. iPhone versio",
   "tags": ["asettelupulma", "shakki", "yksinpeli", "logiikka", "iphone"],
   "startUrl": "https://ymouse91.github.io/iphone/",
@@ -31,7 +31,7 @@
   "id": "cantstop",
   "name": "Can't Stop",
   "goal": "Etene noppien avulla useassa sarakkeessa ja päätä itse, milloin on aika pysähtyä – ahneus voi kostautua. Ensimmäinen pelaaja, joka voittaa kolme saraketta, voittaa pelin.",
-  "tags": ["noppapeli", "moninpeli", "sid sackson"],
+  "tags": ["noppapeli", "moninpeli", "sid sackson", "ipad/pc"],
   "startUrl": "https://ymouse91.github.io/cantstop/",
   "manifestUrl": "https://ymouse91.github.io/cantstop/manifest.webmanifest"
 }
@@ -40,7 +40,7 @@
   "id": "gipf",
   "name": "GIPF",
   "goal": "Työnnä nappuloita reunasta ja hallitse lautaa: rakenna neljän suoria ja pakota vastustajan palat pois – pelaa itsesi voittoon.",
-  "tags": ["abstrakti", "kaksinpeli", "gipf"],
+  "tags": ["abstrakti", "kaksinpeli", "gipf", "ipad/pc"],
   "startUrl": "https://ymouse91.github.io/gipf/",
   "manifestUrl": "https://ymouse91.github.io/gipf/manifest.webmanifest"
 }
@@ -49,7 +49,7 @@
   "id": "dvonn",
   "name": "DVONN",
   "goal": "Pinoa ja yhdistä: pidä pinot yhteydessä DVONN-kiviin ja kerää lopussa korkeat pinot – eniten pisteitä saanut voittaa.",
-  "tags": ["abstrakti", "kaksinpeli", "gipf" , "ai-vastustaja"],
+  "tags": ["abstrakti", "kaksinpeli", "gipf" , "ai-vastustaja", "ipad/pc"],
   "startUrl": "https://ymouse91.github.io/dvonn/",
   "manifestUrl": "https://ymouse91.github.io/dvonn/manifest.webmanifest"
 }
@@ -58,7 +58,7 @@
   "id": "yinsh",
   "name": "YINSH",
   "goal": "GIPF-projektin klassikko. Liikuta renkaita ja käännä merkkejä: muodosta ensimmäisenä viiden suora omista merkeistä ja voita.",
-  "tags": ["abstrakti", "kaksinpeli", "gipf"],
+  "tags": ["abstrakti", "kaksinpeli", "gipf", "ipad/pc"],
   "startUrl": "https://ymouse91.github.io/yinsh/",
   "manifestUrl": "https://ymouse91.github.io/yinsh/manifest.webmanifest"
 }
