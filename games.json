@@ -12,7 +12,7 @@
 },
 {
   "id": "roadblock-iphone",
-  "name": "RoadBlock iphone",
+  "name": "iRoadBlock",
   "goal": "Aseta poliisiautot ruudukolle niin, että punainen auto ei löydä pakoreittiä ulos pelilaudalta.",
   "tags": ["puzzle", "smartgames", "logiikka", "iphone"],
   "startUrl": "https://ymouse91.github.io/roadblock-iphone/",
