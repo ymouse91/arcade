@@ -3,6 +3,22 @@
   "subtitle": "Avaa peli tai asenna se aloitusnäyttöön.",
   "games": [
   {
+  "id": "roadblock",
+  "name": "RoadBlock",
+  "goal": "Aseta poliisiautot ruudukolle niin, että punainen auto ei löydä pakoreittiä ulos pelilaudalta.",
+  "tags": ["asettelupulma", "smartgames", "logiikka", "ipad/pc"],
+  "startUrl": "https://ymouse91.github.io/roadblock/",
+  "manifestUrl": "https://ymouse91.github.io/roadblock/manifest.webmanifest"
+},
+{
+  "id": "roadblock-iphone",
+  "name": "RoadBlock iphone",
+  "goal": "Aseta poliisiautot ruudukolle niin, että punainen auto ei löydä pakoreittiä ulos pelilaudalta.",
+  "tags": ["puzzle", "smartgames-tyylinen", "logiikka", "iphone"],
+  "startUrl": "https://ymouse91.github.io/roadblock-iphone/",
+  "manifestUrl": "https://ymouse91.github.io/roadblock-iphone/manifest.webmanifest"
+},
+  {
   "id": "chess-peace",
   "name": "Chess Peace",
   "goal": "Asettele laatat pelilaudalle niin, että vastustajien shakkinappulat eivät uhkaa toisiaan. iPad ja PC versio",
