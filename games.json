@@ -123,7 +123,7 @@
   "manifestUrl": "https://ymouse91.github.io/piiri/manifest-iphone.webmanifest"
 }, 
   {
-  "id": "Battle-Sheep",
+  "id": "battle-sheep",
   "name": "Battle Sheep",
   "goal": "Valloita mahdollisimman paljon pelialuetta. PC/iPad peli 2-4 hengelle.",
   "tags": ["strategia", "lautapeli", "moninpeli", "blue orange", "Francesco Rotta","ipad/pc"],
@@ -232,7 +232,7 @@
     {
       "id": "jumpin",
       "name": "Jump In",
-      "goal": "Puput koloihin pulmat ratkeavat hyppäämällä sääntöjen mukaan. Jump In'",
+      "goal": "Puput koloihin pulmat ratkeavat hyppäämällä sääntöjen mukaan.",
       "tags": ["logiikka", "smartgames", "puzzle"],
       "startUrl": "https://ymouse91.github.io/jumpin/",
       "manifestUrl": "https://ymouse91.github.io/jumpin/manifest.json",
@@ -334,7 +334,7 @@
       "id": "lostcities",
       "name": "Lost Cities",
       "goal": "Korttipeli: rakenna retkikunnat ja hallitse riskit.",
-      "tags": ["korttipeli", "peli", "Reiner Knizian"],
+      "tags": ["korttipeli", "peli", "reiner knizia"],
       "startUrl": "https://ymouse91.github.io/lostcities/",
       "manifestUrl": "https://ymouse91.github.io/lostcities/manifest.json",
       "iconFallback": "https://ymouse91.github.io/lostcities/icon-192.png"
@@ -343,7 +343,7 @@
       "id": "clever",
       "name": "Clever",
       "goal": "Noppa-/pistelaskentapeli ruudukolla. That's Pretty Clever!",
-      "tags": ["nopat", "lautapeli", "Wolfgang Warsch"],
+      "tags": ["nopat", "lautapeli", "wolfgang warsch"],
       "startUrl": "https://ymouse91.github.io/clever/",
       "manifestUrl": "https://ymouse91.github.io/clever/manifest.webmanifest",
       "iconFallback": "https://ymouse91.github.io/clever/icon-192.png"
