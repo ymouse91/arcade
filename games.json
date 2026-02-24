@@ -6,7 +6,7 @@
   "id": "crossfire",
   "name": "Crossfire",
   "goal": "Aseta kaikki alukset pelilaudalle ja suuntaa niiden tykit pelimoodin vaatimalla tavalla.",
-  "tags": ["pulmapeli", "logiikka", "smartgames-tyylinen"],
+  "tags": ["asettelupulma", "logiikka", "smartgames", "yksinpeli"],
   "startUrl": "https://ymouse91.github.io/crossfire/",
   "manifestUrl": "https://ymouse91.github.io/crossfire/manifest.webmanifest"
 },
