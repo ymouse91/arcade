@@ -3,6 +3,22 @@
   "subtitle": "Avaa peli tai asenna se aloitusnäyttöön.",
   "games": [
   {
+  "id": "templetrap",
+  "name": "Temple Trap",
+  "goal": "Etsi ulospääsy temppelistä.",
+  "tags": ["liukupulma", "logiikka", "smartgames", "yksinpeli"],
+  "startUrl": "https://ymouse91.github.io/templetrap/",
+  "manifestUrl": "https://ymouse91.github.io/templetrap/manifest.webmanifest"
+},
+  {
+  "id": "scrabble",
+  "name": "Alfapet",
+  "goal": "Tuttu Alfapet/Scrabble suomalaisella sanastolla. Yhdestä neljälle pelaajalle.",
+  "tags": ["sanapeli", "moninpeli", "ai-vastustaja","PC/iPad"],
+  "startUrl": "https://ymouse91.github.io/scrabble/",
+  "manifestUrl": "https://ymouse91.github.io/scrabble/manifest.webmanifest"
+},
+  {
   "id": "crossfire",
   "name": "Crossfire",
   "goal": "Aseta kaikki alukset pelilaudalle ja suuntaa niiden tykit pelimoodin vaatimalla tavalla.",
