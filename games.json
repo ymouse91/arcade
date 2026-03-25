@@ -2,6 +2,14 @@
   "title": "PWA-pelit",
   "subtitle": "Avaa peli tai asenna se aloitusnäyttöön.",
   "games": [
+    {
+  "id": "mandamia",
+  "name": "Mandamina",
+  "goal": "Mandamina on hiljainen yhteistyöpeli, jossa siirretään vuorotellen kuulia tavoitteena ryhmitellä samanväriset kuulat yhtenäisiksi alueiksi.",
+  "tags": ["yhteistyöpeli", "logiikka", "abstrakti", "peliko"],
+  "startUrl": "https://ymouse91.github.io/mandamina/",
+  "manifestUrl": "https://ymouse91.github.io/mandamina/manifest.webmanifest"
+},
   {
   "id": "templetrap",
   "name": "Temple Trap",
