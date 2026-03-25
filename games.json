@@ -14,7 +14,7 @@
   "id": "scrabble",
   "name": "Alfapet",
   "goal": "Tuttu Alfapet/Scrabble suomalaisella sanastolla. Yhdestä neljälle pelaajalle.",
-  "tags": ["sanapeli", "moninpeli", "ai-vastustaja","PC/iPad"],
+  "tags": ["sanapeli", "moninpeli", "ai-vastustaja","ipad/pc"],
   "startUrl": "https://ymouse91.github.io/scrabble/",
   "manifestUrl": "https://ymouse91.github.io/scrabble/manifest.webmanifest"
 },
