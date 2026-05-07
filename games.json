@@ -16,7 +16,7 @@
   "goal": "Kääntele kaksipuolista korttia, käytä vipuja ja putkia ja ratkaise sokkelomaiset pulmat.",
   "tags": ["pulmapeli", "labyrintti", "logiikka", "one card maze"],
   "startUrl": "https://ymouse91.github.io/chutes_and_levers/",
-  "manifestUrl": "https://ymouse91.github.io/chutes_and_levers/manifest.webmanifest"
+  "manifestUrl": "https://ymouse91.github.io/chutes_and_levers/manifest.json"
 },
 {
   "id": "cardinal",
