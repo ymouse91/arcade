@@ -2,6 +2,30 @@
   "title": "PWA-pelit",
   "subtitle": "Avaa peli tai asenna se aloitusnäyttöön.",
   "games": [
+  {
+  "id": "balatro",
+  "name": "Poker Joker",
+  "goal": "Balatro-henkinen pokeriroguelike, jossa rakennat pakkaa, ostat jokereita ja voitat yhä vaikeampia blindejä.",
+  "tags": ["pokeri", "korttipeli", "roguelike", "deckbuilder", "ipad/pc"],
+  "startUrl": "https://ymouse91.github.io/balatro/",
+  "manifestUrl": "https://ymouse91.github.io/balatro/manifest.webmanifest"
+ },
+ {
+  "id": "chutes_and_levers",
+  "name": "Chutes & Levers",
+  "goal": "Kääntele kaksipuolista korttia, käytä vipuja ja putkia ja ratkaise sokkelomaiset pulmat.",
+  "tags": ["pulmapeli", "labyrintti", "logiikka", "one card maze"],
+  "startUrl": "https://ymouse91.github.io/chutes_and_levers/",
+  "manifestUrl": "https://ymouse91.github.io/chutes_and_levers/manifest.webmanifest"
+},
+{
+  "id": "cardinal",
+  "name": "Cardinal",
+  "goal": "Siirrä kortteja ja ratkaise suuntiin perustuvia logiikkapulmia mahdollisimman vähillä siirroilla.",
+  "tags": ["pulmapeli", "logiikka", "kortit", "strategia", "ipad/pc"],
+  "startUrl": "https://ymouse91.github.io/cardinal/",
+  "manifestUrl": "https://ymouse91.github.io/cardinal/manifest.webmanifest"
+},
     {
   "id": "mandamia",
   "name": "Mandamina",
