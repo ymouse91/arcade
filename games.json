@@ -2,6 +2,24 @@
   "title": "PWA-pelit",
   "subtitle": "Avaa peli tai asenna se aloitusnäyttöön.",
   "games": [
+      {
+      "id": "restart",
+      "name": "Restart",
+      "goal": "Digitaalinen Restart-lautapeli 2–4 pelaajalle: pelaa värillisiä numerolaattoja nouseviin riveihin, käytä erikoiskortteja ja pyri tyhjentämään kätesi tai keräämään vähiten pisteitä.",
+      "tags": ["lautapeli", "korttipeli", "numerot", "moninpeli", "ai-vastustaja"],
+      "startUrl": "https://ymouse91.github.io/restart/",
+      "manifestUrl": "https://ymouse91.github.io/restart/manifest.webmanifest",
+      "iconFallback": "https://ymouse91.github.io/restart/icon-192.png"
+    },
+    {
+      "id": "slide",
+      "name": "Slide",
+      "goal": "2–4 pelaajan korttipeli, jossa valitaan piilokortteja pöytään ja työnnetään valitut kortit takaisin omaan 4×4-ruudukkoon. Lopussa vierekkäiset samat numerot poistuvat pisteytyksestä ja pienin pistemäärä voittaa.",
+      "tags": ["korttipeli", "moninpeli", "numerot", "strategia", "ipad/pc/iphone"],
+      "startUrl": "https://ymouse91.github.io/slide/",
+      "manifestUrl": "https://ymouse91.github.io/slide/manifest.webmanifest",
+      "iconFallback": "https://ymouse91.github.io/slide/icon-192.png"
+    },
   {
   "id": "balatro",
   "name": "Poker Joker",
@@ -459,7 +477,6 @@
       "manifestUrl": "https://ymouse91.github.io/sanahaku/manifest.json",
       "iconFallback": "https://ymouse91.github.io/sanahaku/icon-192.png"
     },
-
     {
       "id": "tavukolmio",
       "name": "Tavukolmio",
