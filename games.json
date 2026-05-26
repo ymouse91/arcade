@@ -2,6 +2,15 @@
   "title": "PWA-pelit",
   "subtitle": "Avaa peli tai asenna se aloitusnäyttöön.",
   "games": [
+    {
+      "id": "qwirkle",
+      "name": "Qwirkle",
+      "goal": "Selainpohjainen Qwirkle-lautapeli 2–4 pelaajalle: rakenna rivejä samanvärisistä tai samanmuotoisista laatoista, kerää pisteitä ja pelaa myös AI-vastustajia vastaan.",
+      "tags": ["lautapeli", "laattapeli", "strategia", "moninpeli", "ai-vastustaja"],
+      "startUrl": "https://ymouse91.github.io/qwirkle/",
+      "manifestUrl": "https://ymouse91.github.io/qwirkle/manifest.webmanifest",
+      "iconFallback": "https://ymouse91.github.io/qwirkle/icon.svg"
+    },
       {
       "id": "restart",
       "name": "Restart",
