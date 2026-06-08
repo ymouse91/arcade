@@ -181,6 +181,15 @@
       "manifestUrl": "https://ymouse91.github.io/microrobots/manifest.webmanifest",
       "iconFallback": "https://ymouse91.github.io/microrobots/icon-192.png"
     },
+    {
+      "id": "arukone",
+      "name": "Arukone",
+      "goal": "Yhdistä numeroparit yhtenäisillä reiteillä niin, että koko ruudukko täyttyy ilman risteyksiä.",
+      "tags": ["logiikka", "pulmapeli", "numerot", "yksinpeli"],
+      "startUrl": "https://ymouse91.github.io/arukone/",
+      "manifestUrl": "https://ymouse91.github.io/arukone/manifest.webmanifest",
+      "iconFallback": "https://ymouse91.github.io/arukone/icon.svg"
+    },
       {
       "id": "asteroid",
       "name": "Asteroid Escape",
@@ -412,6 +421,15 @@
       "startUrl": "https://ymouse91.github.io/farkle/",
       "manifestUrl": "https://ymouse91.github.io/farkle/manifest.webmanifest",
       "iconFallback": "https://ymouse91.github.io/farkle/icon-192.png"
+    },
+    {
+      "id": "flip7",
+      "name": "FLIP 7",
+      "goal": "FLIP 7 -korttipeli: kerää pistekortteja, vältä saman numeron tuplia ja päätä ajoissa jatkatko vai pysähdytkö.",
+      "tags": ["korttipeli", "push your luck", "moninpeli"],
+      "startUrl": "https://ymouse91.github.io/flip7/",
+      "manifestUrl": "https://ymouse91.github.io/flip7/manifest.webmanifest",
+      "iconFallback": "https://ymouse91.github.io/flip7/app-icon.svg"
     },
     {
       "id": "lostcities",
