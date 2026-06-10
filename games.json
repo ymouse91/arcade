@@ -3,6 +3,15 @@
   "subtitle": "Avaa peli tai asenna se aloitusnäyttöön.",
   "games": [
     {
+      "id": "collect",
+      "name": "Collect!",
+      "goal": "Collect! -korttipeli, jossa kerätään eläinkortteja riveihin, hyödynnetään erikoiskykyjä ja tavoitellaan kruunuja.",
+      "tags": ["korttipeli", "moninpeli", "ai-vastustaja"],
+      "startUrl": "https://ymouse91.github.io/collect/",
+      "manifestUrl": "https://ymouse91.github.io/collect/manifest.webmanifest",
+      "iconFallback": "https://ymouse91.github.io/collect/icons/icon-192.png"
+    },
+    {
       "id": "arukone",
       "name": "Arukone",
       "goal": "Yhdistä numeroparit yhtenäisillä reiteillä niin, että koko ruudukko täyttyy ilman risteyksiä.",
