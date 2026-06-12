@@ -2,6 +2,15 @@
   "title": "PWA-pelit",
   "subtitle": "Avaa peli tai asenna se aloitusnäyttöön.",
   "games": [
+        {
+      "id": "kumata",
+      "name": "Kumata",
+      "goal": "Aseta domino-paloja laudalle jopa kerroksittain ja kerää pisteitä vastustajaasi enemmän.",
+      "tags": ["domino", "ai-vastustaja", "kaksinpeli"],
+      "startUrl": "https://ymouse91.github.io/kumata/",
+      "manifestUrl": "https://ymouse91.github.io/kumata/manifest.webmanifest",
+      "iconFallback": "https://ymouse91.github.io/kumata/icon-192.png"
+    },
     {
       "id": "collect",
       "name": "Collect!",
