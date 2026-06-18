@@ -5,8 +5,8 @@
     {
       "id": "kivi",
       "name": "Kivi",
-      "goal": "Kivi-noppapeli 2–4 pelaajalle: sijoita noppayhdistelmiä laudalle ja kerää pisteitä ruutujen arvojen mukaan.",
-      "tags": ["noppapeli", "lautapeli", "moninpeli", "ai-vastustaja"],
+      "goal": "Kivi-noppapeli 2–4 pelaajalle: heitä kuutta noppaa enintään kolmesti, aseta kivet noppaehtojen ruutuihin ja kerää pisteitä yhtenäisistä vaaka- ja pystyriveistä.",
+      "tags": ["noppapeli", "lautapeli", "strategia", "moninpeli", "ai-vastustaja"],
       "startUrl": "https://ymouse91.github.io/kivi/",
       "manifestUrl": "https://ymouse91.github.io/kivi/manifest.webmanifest",
       "iconFallback": "https://ymouse91.github.io/kivi/icons/icon-192.png"
