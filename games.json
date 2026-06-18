@@ -2,7 +2,16 @@
   "title": "PWA-pelit",
   "subtitle": "Avaa peli tai asenna se aloitusnäyttöön.",
   "games": [
-        {
+    {
+      "id": "kivi",
+      "name": "Kivi",
+      "goal": "Kivi-noppapeli 2–4 pelaajalle: sijoita noppayhdistelmiä laudalle ja kerää pisteitä ruutujen arvojen mukaan.",
+      "tags": ["noppapeli", "lautapeli", "moninpeli", "ai-vastustaja"],
+      "startUrl": "https://ymouse91.github.io/kivi/",
+      "manifestUrl": "https://ymouse91.github.io/kivi/manifest.webmanifest",
+      "iconFallback": "https://ymouse91.github.io/kivi/icons/icon-192.png"
+    },
+    {
       "id": "kumata",
       "name": "Kumata",
       "goal": "Aseta domino-paloja laudalle jopa kerroksittain ja kerää pisteitä vastustajaasi enemmän.",
@@ -47,7 +56,7 @@
       "manifestUrl": "https://ymouse91.github.io/qwirkle/manifest.webmanifest",
       "iconFallback": "https://ymouse91.github.io/qwirkle/icon.svg"
     },
-      {
+    {
       "id": "restart",
       "name": "Restart",
       "goal": "Digitaalinen Restart-lautapeli 2–4 pelaajalle: pelaa värillisiä numerolaattoja nouseviin riveihin, käytä erikoiskortteja ja pyri tyhjentämään kätesi tai keräämään vähiten pisteitä.",
@@ -65,149 +74,143 @@
       "manifestUrl": "https://ymouse91.github.io/slide/manifest.webmanifest",
       "iconFallback": "https://ymouse91.github.io/slide/icon-192.png"
     },
-  {
-  "id": "balatro",
-  "name": "Poker Joker",
-  "goal": "Balatro-henkinen pokeriroguelike, jossa rakennat pakkaa, ostat jokereita ja voitat yhä vaikeampia blindejä.",
-  "tags": ["pokeri", "korttipeli", "roguelike", "deckbuilder", "ipad/pc"],
-  "startUrl": "https://ymouse91.github.io/balatro/",
-  "manifestUrl": "https://ymouse91.github.io/balatro/manifest.webmanifest"
- },
- {
-  "id": "chutes_and_levers",
-  "name": "Chutes & Levers",
-  "goal": "Kääntele kaksipuolista korttia, käytä vipuja ja putkia ja ratkaise sokkelomaiset pulmat.",
-  "tags": ["pulmapeli", "labyrintti", "logiikka", "one card maze"],
-  "startUrl": "https://ymouse91.github.io/chutes_and_levers/",
-  "manifestUrl": "https://ymouse91.github.io/chutes_and_levers/manifest.json"
-},
-{
-  "id": "cardinal",
-  "name": "Cardinal",
-  "goal": "Siirrä kortteja ja ratkaise suuntiin perustuvia logiikkapulmia mahdollisimman vähillä siirroilla.",
-  "tags": ["pulmapeli", "logiikka", "kortit", "strategia", "ipad/pc"],
-  "startUrl": "https://ymouse91.github.io/cardinal/",
-  "manifestUrl": "https://ymouse91.github.io/cardinal/manifest.webmanifest"
-},
     {
-  "id": "mandamia",
-  "name": "Mandamina",
-  "goal": "Mandamina on hiljainen yhteistyöpeli, jossa siirretään vuorotellen kuulia tavoitteena ryhmitellä samanväriset kuulat yhtenäisiksi alueiksi.",
-  "tags": ["yhteistyöpeli", "logiikka", "abstrakti", "peliko"],
-  "startUrl": "https://ymouse91.github.io/mandamina/",
-  "manifestUrl": "https://ymouse91.github.io/mandamina/manifest.webmanifest"
-},
-  {
-  "id": "templetrap",
-  "name": "Temple Trap",
-  "goal": "Etsi ulospääsy temppelistä.",
-  "tags": ["liukupulma", "logiikka", "smartgames", "yksinpeli"],
-  "startUrl": "https://ymouse91.github.io/templetrap/",
-  "manifestUrl": "https://ymouse91.github.io/templetrap/manifest.webmanifest"
-},
-  {
-  "id": "scrabble",
-  "name": "Alfapet",
-  "goal": "Tuttu Alfapet/Scrabble suomalaisella sanastolla. Yhdestä neljälle pelaajalle.",
-  "tags": ["sanapeli", "moninpeli", "ai-vastustaja","ipad/pc"],
-  "startUrl": "https://ymouse91.github.io/scrabble/",
-  "manifestUrl": "https://ymouse91.github.io/scrabble/manifest.webmanifest"
-},
-  {
-  "id": "crossfire",
-  "name": "Crossfire",
-  "goal": "Aseta kaikki alukset pelilaudalle ja suuntaa niiden tykit pelimoodin vaatimalla tavalla.",
-  "tags": ["asettelupulma", "logiikka", "smartgames", "yksinpeli"],
-  "startUrl": "https://ymouse91.github.io/crossfire/",
-  "manifestUrl": "https://ymouse91.github.io/crossfire/manifest.webmanifest"
-},
-  {
-  "id": "roadblock",
-  "name": "RoadBlock",
-  "goal": "Aseta poliisiautot ruudukolle niin, että punainen auto ei löydä pakoreittiä ulos pelilaudalta.",
-  "tags": ["asettelupulma", "smartgames", "logiikka", "ipad/pc"],
-  "startUrl": "https://ymouse91.github.io/roadblock/",
-  "manifestUrl": "https://ymouse91.github.io/roadblock/manifest.webmanifest"
-},
-{
-  "id": "roadblock-iphone",
-  "name": "iRoadBlock",
-  "goal": "Aseta poliisiautot ruudukolle niin, että punainen auto ei löydä pakoreittiä ulos pelilaudalta.",
-  "tags": ["puzzle", "smartgames", "logiikka", "iphone"],
-  "startUrl": "https://ymouse91.github.io/roadblock-iphone/",
-  "manifestUrl": "https://ymouse91.github.io/roadblock-iphone/manifest.webmanifest",
-  "iconFallback": "https://ymouse91.github.io/roadblock-iphone/icon192.png"
-},
-  {
-  "id": "chess-peace",
-  "name": "Chess Peace",
-  "goal": "Asettele laatat pelilaudalle niin, että vastustajien shakkinappulat eivät uhkaa toisiaan. iPad ja PC versio",
-  "tags": ["asettelupulma", "shakki", "yksinpeli", "logiikka", "ipad/pc", "smartgames"],
-  "startUrl": "https://ymouse91.github.io/chesspeace/",
-  "manifestUrl": "https://ymouse91.github.io/chesspeace/manifest.webmanifest"
-}
-,
-  {
-  "id": "chess-iphone",
-  "name": "iChess",
-  "goal": "Asettele laatat pelilaudalle niin, että vastustajien shakkinappulat eivät uhkaa toisiaan. iPhone versio",
-  "tags": ["asettelupulma", "shakki", "yksinpeli", "logiikka", "iphone","smartgames"],
-  "startUrl": "https://ymouse91.github.io/iphone/",
-  "manifestUrl": "https://ymouse91.github.io/iphone/manifest.webmanifest"
-},
-  {
-  "id": "anti-virus",
-  "name": "Anti-Virus",
-  "goal": "Liikuta erikoispaloja diagonaalisesti ja vapauta punainen virus palapelin aukosta.",
-  "tags": ["logiikka", "liukupulma", "yksinpeli", "smartgames"],
-  "startUrl": "https://ymouse91.github.io/antivirus/",
-  "manifestUrl": "https://ymouse91.github.io/antivirus/manifest.webmanifest"
-},
-  {
-  "id": "cantstop",
-  "name": "Can't Stop",
-  "goal": "Etene noppien avulla useassa sarakkeessa ja päätä itse, milloin on aika pysähtyä – ahneus voi kostautua. Ensimmäinen pelaaja, joka voittaa kolme saraketta, voittaa pelin.",
-  "tags": ["noppapeli", "moninpeli", "sid sackson", "ipad/pc"],
-  "startUrl": "https://ymouse91.github.io/cantstop/",
-  "manifestUrl": "https://ymouse91.github.io/cantstop/manifest.webmanifest"
-}
-,
-  {
-  "id": "gipf",
-  "name": "GIPF",
-  "goal": "Työnnä nappuloita reunasta ja hallitse lautaa: rakenna neljän suoria ja pakota vastustajan palat pois – pelaa itsesi voittoon.",
-  "tags": ["abstrakti", "kaksinpeli", "gipf", "ipad/pc"],
-  "startUrl": "https://ymouse91.github.io/gipf/",
-  "manifestUrl": "https://ymouse91.github.io/gipf/manifest.webmanifest"
-}
-,
-{
-  "id": "dvonn",
-  "name": "DVONN",
-  "goal": "Pinoa ja yhdistä: pidä pinot yhteydessä DVONN-kiviin ja kerää lopussa korkeat pinot – eniten pisteitä saanut voittaa.",
-  "tags": ["abstrakti", "kaksinpeli", "gipf" , "ai-vastustaja", "ipad/pc"],
-  "startUrl": "https://ymouse91.github.io/dvonn/",
-  "manifestUrl": "https://ymouse91.github.io/dvonn/manifest.webmanifest"
-}
-,
-{
-  "id": "yinsh",
-  "name": "YINSH",
-  "goal": "GIPF-projektin klassikko. Liikuta renkaita ja käännä merkkejä: muodosta ensimmäisenä viiden suora omista merkeistä ja voita.",
-  "tags": ["abstrakti", "kaksinpeli", "gipf", "ipad/pc"],
-  "startUrl": "https://ymouse91.github.io/yinsh/",
-  "manifestUrl": "https://ymouse91.github.io/yinsh/manifest.webmanifest"
-}
-,
-{
-  "id": "ricochet-robots",
-  "name": "Risat robotit",
-  "goal": "Nopea logiikkapulma. Ohjaa robotteja liukumaan seiniin asti ja käytä muita robotteja esteinä: löydä lyhin reitti oikea robotti kohteeseen. Ricochet Robots",
-  "tags": ["logiikka", "moninpeli", "alex randolph"],
-  "startUrl": "https://ymouse91.github.io/risatrobotit/",
-  "manifestUrl": "https://ymouse91.github.io/risatrobotit/manifest.webmanifest"
-}
-,
+      "id": "balatro",
+      "name": "Poker Joker",
+      "goal": "Balatro-henkinen pokeriroguelike, jossa rakennat pakkaa, ostat jokereita ja voitat yhä vaikeampia blindejä.",
+      "tags": ["pokeri", "korttipeli", "roguelike", "deckbuilder", "ipad/pc"],
+      "startUrl": "https://ymouse91.github.io/balatro/",
+      "manifestUrl": "https://ymouse91.github.io/balatro/manifest.webmanifest"
+    },
+    {
+      "id": "chutes_and_levers",
+      "name": "Chutes & Levers",
+      "goal": "Kääntele kaksipuolista korttia, käytä vipuja ja putkia ja ratkaise sokkelomaiset pulmat.",
+      "tags": ["pulmapeli", "labyrintti", "logiikka", "one card maze"],
+      "startUrl": "https://ymouse91.github.io/chutes_and_levers/",
+      "manifestUrl": "https://ymouse91.github.io/chutes_and_levers/manifest.json"
+    },
+    {
+      "id": "cardinal",
+      "name": "Cardinal",
+      "goal": "Siirrä kortteja ja ratkaise suuntiin perustuvia logiikkapulmia mahdollisimman vähillä siirroilla.",
+      "tags": ["pulmapeli", "logiikka", "kortit", "strategia", "ipad/pc"],
+      "startUrl": "https://ymouse91.github.io/cardinal/",
+      "manifestUrl": "https://ymouse91.github.io/cardinal/manifest.webmanifest"
+    },
+    {
+      "id": "mandamia",
+      "name": "Mandamina",
+      "goal": "Mandamina on hiljainen yhteistyöpeli, jossa siirretään vuorotellen kuulia tavoitteena ryhmitellä samanväriset kuulat yhtenäisiksi alueiksi.",
+      "tags": ["yhteistyöpeli", "logiikka", "abstrakti", "peliko"],
+      "startUrl": "https://ymouse91.github.io/mandamina/",
+      "manifestUrl": "https://ymouse91.github.io/mandamina/manifest.webmanifest"
+    },
+    {
+      "id": "templetrap",
+      "name": "Temple Trap",
+      "goal": "Etsi ulospääsy temppelistä.",
+      "tags": ["liukupulma", "logiikka", "smartgames", "yksinpeli"],
+      "startUrl": "https://ymouse91.github.io/templetrap/",
+      "manifestUrl": "https://ymouse91.github.io/templetrap/manifest.webmanifest"
+    },
+    {
+      "id": "scrabble",
+      "name": "Alfapet",
+      "goal": "Tuttu Alfapet/Scrabble suomalaisella sanastolla. Yhdestä neljälle pelaajalle.",
+      "tags": ["sanapeli", "moninpeli", "ai-vastustaja", "ipad/pc"],
+      "startUrl": "https://ymouse91.github.io/scrabble/",
+      "manifestUrl": "https://ymouse91.github.io/scrabble/manifest.webmanifest"
+    },
+    {
+      "id": "crossfire",
+      "name": "Crossfire",
+      "goal": "Aseta kaikki alukset pelilaudalle ja suuntaa niiden tykit pelimoodin vaatimalla tavalla.",
+      "tags": ["asettelupulma", "logiikka", "smartgames", "yksinpeli"],
+      "startUrl": "https://ymouse91.github.io/crossfire/",
+      "manifestUrl": "https://ymouse91.github.io/crossfire/manifest.webmanifest"
+    },
+    {
+      "id": "roadblock",
+      "name": "RoadBlock",
+      "goal": "Aseta poliisiautot ruudukolle niin, että punainen auto ei löydä pakoreittiä ulos pelilaudalta.",
+      "tags": ["asettelupulma", "smartgames", "logiikka", "ipad/pc"],
+      "startUrl": "https://ymouse91.github.io/roadblock/",
+      "manifestUrl": "https://ymouse91.github.io/roadblock/manifest.webmanifest"
+    },
+    {
+      "id": "roadblock-iphone",
+      "name": "iRoadBlock",
+      "goal": "Aseta poliisiautot ruudukolle niin, että punainen auto ei löydä pakoreittiä ulos pelilaudalta.",
+      "tags": ["puzzle", "smartgames", "logiikka", "iphone"],
+      "startUrl": "https://ymouse91.github.io/roadblock-iphone/",
+      "manifestUrl": "https://ymouse91.github.io/roadblock-iphone/manifest.webmanifest",
+      "iconFallback": "https://ymouse91.github.io/roadblock-iphone/icon192.png"
+    },
+    {
+      "id": "chess-peace",
+      "name": "Chess Peace",
+      "goal": "Asettele laatat pelilaudalle niin, että vastustajien shakkinappulat eivät uhkaa toisiaan. iPad ja PC versio",
+      "tags": ["asettelupulma", "shakki", "yksinpeli", "logiikka", "ipad/pc", "smartgames"],
+      "startUrl": "https://ymouse91.github.io/chesspeace/",
+      "manifestUrl": "https://ymouse91.github.io/chesspeace/manifest.webmanifest"
+    },
+    {
+      "id": "chess-iphone",
+      "name": "iChess",
+      "goal": "Asettele laatat pelilaudalle niin, että vastustajien shakkinappulat eivät uhkaa toisiaan. iPhone versio",
+      "tags": ["asettelupulma", "shakki", "yksinpeli", "logiikka", "iphone", "smartgames"],
+      "startUrl": "https://ymouse91.github.io/iphone/",
+      "manifestUrl": "https://ymouse91.github.io/iphone/manifest.webmanifest"
+    },
+    {
+      "id": "anti-virus",
+      "name": "Anti-Virus",
+      "goal": "Liikuta erikoispaloja diagonaalisesti ja vapauta punainen virus palapelin aukosta.",
+      "tags": ["logiikka", "liukupulma", "yksinpeli", "smartgames"],
+      "startUrl": "https://ymouse91.github.io/antivirus/",
+      "manifestUrl": "https://ymouse91.github.io/antivirus/manifest.webmanifest"
+    },
+    {
+      "id": "cantstop",
+      "name": "Can't Stop",
+      "goal": "Etene noppien avulla useassa sarakkeessa ja päätä itse, milloin on aika pysähtyä – ahneus voi kostautua. Ensimmäinen pelaaja, joka voittaa kolme saraketta, voittaa pelin.",
+      "tags": ["noppapeli", "moninpeli", "sid sackson", "ipad/pc"],
+      "startUrl": "https://ymouse91.github.io/cantstop/",
+      "manifestUrl": "https://ymouse91.github.io/cantstop/manifest.webmanifest"
+    },
+    {
+      "id": "gipf",
+      "name": "GIPF",
+      "goal": "Työnnä nappuloita reunasta ja hallitse lautaa: rakenna neljän suoria ja pakota vastustajan palat pois – pelaa itsesi voittoon.",
+      "tags": ["abstrakti", "kaksinpeli", "gipf", "ipad/pc"],
+      "startUrl": "https://ymouse91.github.io/gipf/",
+      "manifestUrl": "https://ymouse91.github.io/gipf/manifest.webmanifest"
+    },
+    {
+      "id": "dvonn",
+      "name": "DVONN",
+      "goal": "Pinoa ja yhdistä: pidä pinot yhteydessä DVONN-kiviin ja kerää lopussa korkeat pinot – eniten pisteitä saanut voittaa.",
+      "tags": ["abstrakti", "kaksinpeli", "gipf", "ai-vastustaja", "ipad/pc"],
+      "startUrl": "https://ymouse91.github.io/dvonn/",
+      "manifestUrl": "https://ymouse91.github.io/dvonn/manifest.webmanifest"
+    },
+    {
+      "id": "yinsh",
+      "name": "YINSH",
+      "goal": "GIPF-projektin klassikko. Liikuta renkaita ja käännä merkkejä: muodosta ensimmäisenä viiden suora omista merkeistä ja voita.",
+      "tags": ["abstrakti", "kaksinpeli", "gipf", "ipad/pc"],
+      "startUrl": "https://ymouse91.github.io/yinsh/",
+      "manifestUrl": "https://ymouse91.github.io/yinsh/manifest.webmanifest"
+    },
+    {
+      "id": "ricochet-robots",
+      "name": "Risat robotit",
+      "goal": "Nopea logiikkapulma. Ohjaa robotteja liukumaan seiniin asti ja käytä muita robotteja esteinä: löydä lyhin reitti oikea robotti kohteeseen. Ricochet Robots",
+      "tags": ["logiikka", "moninpeli", "alex randolph"],
+      "startUrl": "https://ymouse91.github.io/risatrobotit/",
+      "manifestUrl": "https://ymouse91.github.io/risatrobotit/manifest.webmanifest"
+    },
     {
       "id": "microrobots",
       "name": "Micro robots",
@@ -217,7 +220,7 @@
       "manifestUrl": "https://ymouse91.github.io/microrobots/manifest.webmanifest",
       "iconFallback": "https://ymouse91.github.io/microrobots/icon-192.png"
     },
-      {
+    {
       "id": "asteroid",
       "name": "Asteroid Escape",
       "goal": "Siirrä paloja ja ratkaise pulmat törmäys- ja liikesäännöillä.",
@@ -225,39 +228,38 @@
       "startUrl": "https://ymouse91.github.io/asteroid/",
       "manifestUrl": "https://ymouse91.github.io/asteroid/manifest.webmanifest"
     },
-	{
-  "id": "virtapiiri",
-  "name": "IQ Circuit",
-  "goal": "Yhdistä pisteet oikein: sijoita palat niin, että piiri sulkeutuu ja tavoite täyttyy ilman katkoja.",
-  "tags": ["logiikka", "asettelupulma", "smartgames"],
-  "startUrl": "https://ymouse91.github.io/piiri/index.html",
-  "manifestUrl": "https://ymouse91.github.io/piiri/manifest.webmanifest"
-},
-  {
-  "id": "piiri-iphone",
-  "name": "Virtapiiri",
-  "goal": "iPhone versio pelistä IQ Circuit. Yhdistä pisteet oikein: sijoita palat niin, että piiri sulkeutuu ja tavoite täyttyy ilman katkoja.",
-  "tags": ["logiikka", "asettelupulma", "smartgames","iphone"],
-  "startUrl": "https://ymouse91.github.io/piiri/index-iphone.html",
-  "manifestUrl": "https://ymouse91.github.io/piiri/manifest-iphone.webmanifest"
-}, 
-  {
-  "id": "battle-sheep",
-  "name": "Battle Sheep",
-  "goal": "Valloita mahdollisimman paljon pelialuetta. PC/iPad peli 2-4 hengelle.",
-  "tags": ["strategia", "lautapeli", "moninpeli", "blue orange", "Francesco Rotta","ipad/pc"],
-  "startUrl": "https://ymouse91.github.io/battle/index.html",
-  "manifestUrl": "https://ymouse91.github.io/battle/manifest.webmanifest"
-},
-	{
-  "id": "rattaat",
-  "name": "Rattaat",
-  "goal": "Asettele palat ja kytke rattaat oikein, niin muodostuu voittava kokonaisuus.",
-  "tags": ["logiikka", "puzzle", "asettelupulma", "smartgames"],
-  "startUrl": "https://ymouse91.github.io/rattaat/",
-  "manifestUrl": "https://ymouse91.github.io/rattaat/manifest.webmanifest"
-}
-,
+    {
+      "id": "virtapiiri",
+      "name": "IQ Circuit",
+      "goal": "Yhdistä pisteet oikein: sijoita palat niin, että piiri sulkeutuu ja tavoite täyttyy ilman katkoja.",
+      "tags": ["logiikka", "asettelupulma", "smartgames"],
+      "startUrl": "https://ymouse91.github.io/piiri/index.html",
+      "manifestUrl": "https://ymouse91.github.io/piiri/manifest.webmanifest"
+    },
+    {
+      "id": "piiri-iphone",
+      "name": "Virtapiiri",
+      "goal": "iPhone versio pelistä IQ Circuit. Yhdistä pisteet oikein: sijoita palat niin, että piiri sulkeutuu ja tavoite täyttyy ilman katkoja.",
+      "tags": ["logiikka", "asettelupulma", "smartgames", "iphone"],
+      "startUrl": "https://ymouse91.github.io/piiri/index-iphone.html",
+      "manifestUrl": "https://ymouse91.github.io/piiri/manifest-iphone.webmanifest"
+    },
+    {
+      "id": "battle-sheep",
+      "name": "Battle Sheep",
+      "goal": "Valloita mahdollisimman paljon pelialuetta. PC/iPad peli 2-4 hengelle.",
+      "tags": ["strategia", "lautapeli", "moninpeli", "blue orange", "Francesco Rotta", "ipad/pc"],
+      "startUrl": "https://ymouse91.github.io/battle/index.html",
+      "manifestUrl": "https://ymouse91.github.io/battle/manifest.webmanifest"
+    },
+    {
+      "id": "rattaat",
+      "name": "Rattaat",
+      "goal": "Asettele palat ja kytke rattaat oikein, niin muodostuu voittava kokonaisuus.",
+      "tags": ["logiikka", "puzzle", "asettelupulma", "smartgames"],
+      "startUrl": "https://ymouse91.github.io/rattaat/",
+      "manifestUrl": "https://ymouse91.github.io/rattaat/manifest.webmanifest"
+    },
     {
       "id": "nopat",
       "name": "Nokkelat nopat",
@@ -267,7 +269,7 @@
       "manifestUrl": "https://ymouse91.github.io/nopat/manifest.webmanifest",
       "iconFallback": "https://ymouse91.github.io/nopat/icon-192.png"
     },
-	{
+    {
       "id": "kakuro",
       "name": "Kakuro",
       "goal": "Täytä numerot niin, että rivien ja sarakkeiden summat täsmäävät.",
@@ -307,12 +309,12 @@
       "id": "lumiukko",
       "name": "Lumiukko",
       "goal": "Kokoa lumiukot siirtämällä paloja oikein.",
-      "tags": ["logiikka", "puzzle", "liukupulma","smartgames"],
+      "tags": ["logiikka", "puzzle", "liukupulma", "smartgames"],
       "startUrl": "https://ymouse91.github.io/lumiukko/",
       "manifestUrl": "https://ymouse91.github.io/lumiukko/manifest.json",
       "iconFallback": "https://ymouse91.github.io/lumiukko/hsb.png"
     },
-	{
+    {
       "id": "crossing",
       "name": "River Crossing",
       "goal": "Ratkaise River Crossing -pulmat siirtämällä palat oikein. ",
@@ -325,12 +327,12 @@
       "id": "crossing2",
       "name": "Crossing 2",
       "goal": "Vaikeampi river crossing: siirrä ja järjestä palat sääntöjen mukaan. ",
-      "tags": ["logiikka", "puzzle","thinkfun"],
+      "tags": ["logiikka", "puzzle", "thinkfun"],
       "startUrl": "https://ymouse91.github.io/crossing2/",
       "manifestUrl": "https://ymouse91.github.io/crossing2/manifest.webmanifest",
       "iconFallback": "https://ymouse91.github.io/crossing2/icon-192.png"
     },
-	{
+    {
       "id": "sheeps",
       "name": "Sheeps",
       "goal": "Ratkaise lampaisiin liittyvät palapelit. Counting Sheep.",
@@ -343,7 +345,7 @@
       "id": "laskelampaita",
       "name": "Laske lampaita",
       "goal": "Counting Sheeps - PC/iPad optimoitus.",
-      "tags": ["logiikka", "puzzle", "asettelupulma","smartgames"],
+      "tags": ["logiikka", "puzzle", "asettelupulma", "smartgames"],
       "startUrl": "https://ymouse91.github.io/laskelampaita/",
       "manifestUrl": "https://ymouse91.github.io/laskelampaita/manifest.json",
       "iconFallback": "https://ymouse91.github.io/laskelampaita/lammas.png"
@@ -357,7 +359,6 @@
       "manifestUrl": "https://ymouse91.github.io/jumpin/manifest.json",
       "iconFallback": "https://ymouse91.github.io/jumpin/pwa_icon_512.png"
     },
-
     {
       "id": "tipover",
       "name": "TipOver",
@@ -421,7 +422,6 @@
       "manifestUrl": "https://ymouse91.github.io/onirim/manifest.json",
       "iconFallback": "https://ymouse91.github.io/onirim/icon-192.png"
     },
-
     {
       "id": "flowers",
       "name": "Flowers",
@@ -435,7 +435,7 @@
       "id": "qwinto",
       "name": "Qwinto",
       "goal": "Pistelaskenta/ruudukko: täytä ja optimoi heittojen mukaan.",
-      "tags": ["numerot", "nopat","lautapeli"],
+      "tags": ["numerot", "nopat", "lautapeli"],
       "startUrl": "https://ymouse91.github.io/qwinto/",
       "manifestUrl": "https://ymouse91.github.io/qwinto/manifest.json",
       "iconFallback": "https://ymouse91.github.io/qwinto/icon-192.png"
@@ -476,7 +476,6 @@
       "manifestUrl": "https://ymouse91.github.io/sid/manifest.webmanifest",
       "iconFallback": "https://ymouse91.github.io/sid/icon-192.png"
     },
-
     {
       "id": "encore-pwa",
       "name": "Encore",
@@ -486,7 +485,7 @@
       "manifestUrl": "https://ymouse91.github.io/encore-pwa/manifest.json",
       "iconFallback": "https://ymouse91.github.io/encore-pwa/icon-192.png"
     },
-	{
+    {
       "id": "tavubingo",
       "name": "Tavubingo",
       "goal": "Pelaa bingoa tavuilla ja sanoilla (suomen kieli).",
