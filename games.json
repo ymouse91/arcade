@@ -51,7 +51,7 @@
       "id": "flip7",
       "name": "FLIP 7",
       "goal": "FLIP 7 -korttipeli: kerää pistekortteja, vältä saman numeron tuplia ja päätä ajoissa jatkatko vai pysähdytkö.",
-      "tags": ["korttipeli", "push your luck", "moninpeli"],
+      "tags": ["korttipeli", "ota riski", "moninpeli"],
       "startUrl": "https://ymouse91.github.io/flip7/",
       "manifestUrl": "https://ymouse91.github.io/flip7/manifest.webmanifest",
       "iconFallback": "https://ymouse91.github.io/flip7/app-icon.svg"
@@ -102,8 +102,8 @@
     {
       "id": "cardinal",
       "name": "Cardinal",
-      "goal": "Siirrä kortteja ja ratkaise suuntiin perustuvia logiikkapulmia mahdollisimman vähillä siirroilla.",
-      "tags": ["pulmapeli", "logiikka", "kortit", "strategia", "ipad/pc"],
+      "goal": "Rakenna 4x4 ruudukko annettujen vihjeiden perusteella",
+      "tags": ["pulmapeli", "logiikka", "strategia", "ipad/pc"],
       "startUrl": "https://ymouse91.github.io/cardinal/",
       "manifestUrl": "https://ymouse91.github.io/cardinal/manifest.webmanifest"
     },
@@ -444,7 +444,7 @@
       "id": "qwinto",
       "name": "Qwinto",
       "goal": "Pistelaskenta/ruudukko: täytä ja optimoi heittojen mukaan.",
-      "tags": ["numerot", "nopat", "lautapeli"],
+      "tags": ["numerot", "noppapeli", "lautapeli"],
       "startUrl": "https://ymouse91.github.io/qwinto/",
       "manifestUrl": "https://ymouse91.github.io/qwinto/manifest.json",
       "iconFallback": "https://ymouse91.github.io/qwinto/icon-192.png"
@@ -453,7 +453,7 @@
       "id": "farkle",
       "name": "Farkle",
       "goal": "Noppapeli: kerää pisteitä ja päätä milloin lopetat riskin.",
-      "tags": ["nopat", "työkalu"],
+      "tags": ["noppapeli", "työkalu"],
       "startUrl": "https://ymouse91.github.io/farkle/",
       "manifestUrl": "https://ymouse91.github.io/farkle/manifest.webmanifest",
       "iconFallback": "https://ymouse91.github.io/farkle/icon-192.png"
@@ -471,7 +471,7 @@
       "id": "clever",
       "name": "Clever",
       "goal": "Noppa-/pistelaskentapeli ruudukolla. That's Pretty Clever!",
-      "tags": ["nopat", "lautapeli", "wolfgang warsch"],
+      "tags": ["noppapeli", "lautapeli", "wolfgang warsch"],
       "startUrl": "https://ymouse91.github.io/clever/",
       "manifestUrl": "https://ymouse91.github.io/clever/manifest.webmanifest",
       "iconFallback": "https://ymouse91.github.io/clever/icon-192.png"
@@ -480,7 +480,7 @@
       "id": "sid",
       "name": "Solitaire Dice",
       "goal": "Yksinpelattava noppapeli: optimoi pisteet sääntöjen mukaan. Sackson Solitaire Dice",
-      "tags": ["nopat", "solitaire", "sid sackson"],
+      "tags": ["noppapeli", "solitaire", "sid sackson"],
       "startUrl": "https://ymouse91.github.io/sid/",
       "manifestUrl": "https://ymouse91.github.io/sid/manifest.webmanifest",
       "iconFallback": "https://ymouse91.github.io/sid/icon-192.png"
@@ -489,7 +489,7 @@
       "id": "encore-pwa",
       "name": "Encore",
       "goal": "Pelaa Encore-tyylinen numero-/ruutulogikka.",
-      "tags": ["puzzle", "nopat", "lautapeli", "Inka ja Markus Brand"],
+      "tags": ["puzzle", "noppapeli", "lautapeli", "Inka ja Markus Brand"],
       "startUrl": "https://ymouse91.github.io/encore-pwa/",
       "manifestUrl": "https://ymouse91.github.io/encore-pwa/manifest.json",
       "iconFallback": "https://ymouse91.github.io/encore-pwa/icon-192.png"
