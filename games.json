@@ -3,6 +3,15 @@
   "subtitle": "Avaa peli tai asenna se aloitusnäyttöön.",
   "games": [
     {
+      "id": "turingmachine",
+      "name": "Turing-haaste",
+      "goal": "Suomenkielinen PWA-haastegeneraattori Turing Machine -lautapeliin: luo yksiselitteisiä haasteita, valitse vaikeustaso ja tarkistimet sekä tarkista ratkaisu pelin lopuksi.",
+      "tags": ["työkalu", "lautapeli", "logiikka", "haastegeneraattori"],
+      "startUrl": "https://ymouse91.github.io/turingmachine/",
+      "manifestUrl": "https://ymouse91.github.io/turingmachine/manifest.webmanifest",
+      "iconFallback": "https://ymouse91.github.io/turingmachine/icon.svg"
+    },
+    {
       "id": "reflection",
       "name": "Reflection",
       "goal": "Lasersädepulma, jossa asetat peilejä, mustia aukkoja ja valoputkia niin, että reunavihjeiden laserreitit täsmäävät.",
