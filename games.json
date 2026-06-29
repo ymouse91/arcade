@@ -23,9 +23,9 @@
     {
       "id": "railroadink",
       "name": "Railroad Ink",
-      "goal": "Railroad Ink -yksinpeli: heitä reittinopat, piirrä maantie- ja rautatieverkko seitsemän kierroksen aikana, yhdistä uloskäyntejä ja kerää pisteitä pisimmistä reiteistä sekä keskialueesta.",
-      "tags": ["noppapeli", "reitinrakennus", "lautapeli", "yksinpeli"],
-      "startUrl": "https://ymouse91.github.io/railroadink/",
+      "goal": "Railroad Ink: heitä reittinopat, piirrä maantie- ja rautatieverkko seitsemän kierroksen aikana, yhdistä uloskäyntejä ja kerää pisteitä pisimmistä reiteistä sekä keskialueesta.",
+      "tags": ["noppapeli", "reitinrakennus", "moninpeli", "ai-vastustaja"],
+      "startUrl": "https://ymouse91.github.io/railroadink/index_multipl.html",
       "manifestUrl": "https://ymouse91.github.io/railroadink/manifest.webmanifest",
       "iconFallback": "https://ymouse91.github.io/railroadink/assets/icon-192.png"
     },
