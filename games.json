@@ -26,7 +26,7 @@
       "goal": "Railroad Ink: heitä reittinopat, piirrä maantie- ja rautatieverkko seitsemän kierroksen aikana, yhdistä uloskäyntejä ja kerää pisteitä pisimmistä reiteistä sekä keskialueesta.",
       "tags": ["noppapeli", "reitinrakennus", "moninpeli", "ai-vastustaja"],
       "startUrl": "https://ymouse91.github.io/railroadink/index_multipl.html",
-      "manifestUrl": "https://ymouse91.github.io/railroadink/manifest.webmanifest",
+      "manifestUrl": "https://ymouse91.github.io/railroadink/manifest_multipl.webmanifest",
       "iconFallback": "https://ymouse91.github.io/railroadink/assets/icon-192.png"
     },
     {
