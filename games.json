@@ -6,7 +6,7 @@
       "id": "genius",
       "name": "Genius Square",
       "goal": "Yksinpelattava Genius Square -pulmapeli: aseta palat 6x6-ruudukkoon esteiden ympärille ja ratkaise tasot mahdollisimman vähillä siirroilla.",
-      "tags": ["logiikka", "pulmapeli", "asettelupulma", "yksinpeli"],
+      "tags": ["logiikka", "smartgames", "asettelupulma", "yksinpeli"],
       "startUrl": "https://ymouse91.github.io/genius/",
       "manifestUrl": "https://ymouse91.github.io/genius/manifest.webmanifest",
       "iconFallback": "https://ymouse91.github.io/genius/icons/icon-192.png"
