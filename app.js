@@ -61,7 +61,7 @@ function buildTagOptions(games){
   const tagSel = el("#tag");
   const current = tagSel.value;
 
-  const items = [...tags.entries()].sort((a,b)=> b[1]-a[1] || a[0].localeCompare(b[0], "fi"));
+  const items = [...tags.entries()].sort((a,b)=> a[0].localeCompare(b[0], "fi"));
   tagSel.innerHTML = `<option value="">Kaikki</option>` + items.map(([t,c])=>`<option value="${escapeHtml(t)}">${escapeHtml(t)} (${c})</option>`).join("");
   tagSel.value = current;
 }
