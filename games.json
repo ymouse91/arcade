@@ -66,6 +66,15 @@
       "iconFallback": "https://ymouse91.github.io/collect/icons/icon-192.png"
     },
     {
+      "id": "connection",
+      "name": "Genius Connection",
+      "goal": "Täytä pelilauta palikoilla niin, että muodostuu yksi yhtenäinen reitti, joka yhdistää keltaiset palat toisiinsa.",
+      "tags": ["reitinrakennus", "asettelupulma", "yksinpeli"],
+      "startUrl": "https://ymouse91.github.io/connection/",
+      "manifestUrl": "https://ymouse91.github.io/connection/manifest.webmanifest",
+      "iconFallback": "https://ymouse91.github.io/connection/icon.svg"
+    },
+    {
       "id": "arukone",
       "name": "Arukone",
       "goal": "Yhdistä numeroparit yhtenäisillä reiteillä niin, että koko ruudukko täyttyy ilman risteyksiä.",

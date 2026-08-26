@@ -1,4 +1,4 @@
-const CACHE = "arcade-v21";
+const CACHE = "arcade-v22";
 const ASSETS = [
   "./",
   "./index.html",
