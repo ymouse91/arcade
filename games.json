@@ -75,6 +75,24 @@
       "iconFallback": "https://ymouse91.github.io/connection/icon.svg"
     },
     {
+      "id": "sanapino",
+      "name": "Sanapino",
+      "goal": "Suomalainen Addictionary-tyyppinen sanapeli 2-6 pelaajalle: muodosta uusia sanoja pöydän pinoista ja oman käden korteista.",
+      "tags": ["sanapeli", "korttipeli", "moninpeli", "suomen kieli"],
+      "startUrl": "https://ymouse91.github.io/sanapino/index.html",
+      "manifestUrl": "https://ymouse91.github.io/sanapino/manifest.webmanifest",
+      "iconFallback": "https://ymouse91.github.io/sanapino/icon.svg"
+    },
+    {
+      "id": "repello",
+      "name": "Repello",
+      "goal": "Repello-lautapeli 2-4 pelaajalle: siirrä torneja numerolaudalla, jätä kiekkoja jälkeesi ja työnnä koskettavia nappuloita hylkimissäännöillä.",
+      "tags": ["lautapeli", "abstrakti", "moninpeli"],
+      "startUrl": "https://ymouse91.github.io/repello/",
+      "manifestUrl": "https://ymouse91.github.io/repello/manifest.webmanifest",
+      "iconFallback": "https://ymouse91.github.io/repello/icons/icon.svg"
+    },
+    {
       "id": "arukone",
       "name": "Arukone",
       "goal": "Yhdistä numeroparit yhtenäisillä reiteillä niin, että koko ruudukko täyttyy ilman risteyksiä.",
