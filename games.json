@@ -599,8 +599,8 @@
       "goal": "Uusi Tavukolmio -projekti: sanapeli tavuilla.",
       "tags": ["sanapeli", "lautapeli"],
       "startUrl": "https://ymouse91.github.io/uusitavukolmio/",
-      "manifestUrl": "https://ymouse91.github.io/uusitavukolmio/manifest.json",
-      "iconFallback": "https://ymouse91.github.io/uusitavukolmio/icon-192.png"
+      "manifestUrl": "https://ymouse91.github.io/uusitavukolmio/manifest.webmanifest",
+      "iconFallback": "https://ymouse91.github.io/uusitavukolmio/icons/tavukolmio.svg"
     }
   ]
 }
