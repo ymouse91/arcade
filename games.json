@@ -600,7 +600,7 @@
       "tags": ["sanapeli", "lautapeli"],
       "startUrl": "https://ymouse91.github.io/uusitavukolmio/",
       "manifestUrl": "https://ymouse91.github.io/uusitavukolmio/manifest.webmanifest",
-      "iconFallback": "https://ymouse91.github.io/uusitavukolmio/icons/tavukolmio.svg"
+      "iconFallback": "https://ymouse91.github.io/uusitavukolmio/icons/tavukolmio-192.png"
     }
   ]
 }
