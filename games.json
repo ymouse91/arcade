@@ -21,6 +21,15 @@
       "iconFallback": "https://ymouse91.github.io/turingmachine/icon.svg"
     },
     {
+      "id": "turingmachine-game",
+      "name": "Turing Machine",
+      "goal": "Suomenkielinen Turing Machine -peli: ratkaise kolminumeroinen koodi testaamalla väitteitä tarkistimilla ja päättelemällä yksiselitteinen vastaus.",
+      "tags": ["pulmapeli", "päättely", "yksinpeli"],
+      "startUrl": "https://ymouse91.github.io/turingmachine/game/",
+      "manifestUrl": "https://ymouse91.github.io/turingmachine/game/manifest.webmanifest",
+      "iconFallback": "https://ymouse91.github.io/turingmachine/game/icon.svg"
+    },
+    {
       "id": "reflection",
       "name": "Reflection",
       "goal": "Lasersädepulma, jossa asetat peilejä, mustia aukkoja ja valoputkia niin, että reunavihjeiden laserreitit täsmäävät.",
