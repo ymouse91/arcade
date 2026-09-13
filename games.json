@@ -3,6 +3,15 @@
   "subtitle": "Avaa peli tai asenna se aloitusnäyttöön.",
   "games": [
     {
+      "id": "tacta",
+      "name": "TACTA",
+      "goal": "Kortinasettelupeli 2–6 pelaajalle: aseta kortteja pelialueelle muotojen ja merkintöjen mukaan, valitse pelimuoto ja laske pisteet pelin päättyessä.",
+      "tags": ["korttipeli", "asettelupeli", "moninpeli"],
+      "startUrl": "https://ymouse91.github.io/tacta/game/",
+      "manifestUrl": "https://ymouse91.github.io/tacta/game/manifest.webmanifest",
+      "iconFallback": "https://ymouse91.github.io/tacta/game/icons/icon-192.png"
+    },
+    {
       "id": "genius",
       "name": "Genius Square",
       "goal": "Yksinpelattava Genius Square -pulmapeli: aseta palat 6x6-ruudukkoon esteiden ympärille ja ratkaise tasot mahdollisimman vähillä siirroilla.",
