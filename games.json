@@ -102,6 +102,15 @@
       "iconFallback": "https://ymouse91.github.io/sanapino/icon.svg"
     },
     {
+      "id": "sananjuuri",
+      "name": "Sananjuuri",
+      "goal": "Suomenkielinen sanaketjupeli: kasvata sana 3 kirjaimesta 8 kirjaimeen lisäämällä joka vaiheessa yksi uusi kirjain.",
+      "tags": ["sanapeli", "suomen kieli", "yksinpeli"],
+      "startUrl": "https://ymouse91.github.io/sananjuuri/",
+      "manifestUrl": "https://ymouse91.github.io/sananjuuri/manifest.webmanifest",
+      "iconFallback": "https://ymouse91.github.io/sananjuuri/icons/icon-192.png"
+    },
+    {
       "id": "repello",
       "name": "Repello",
       "goal": "Repello-lautapeli 2-4 pelaajalle: siirrä torneja numerolaudalla, jätä kiekkoja jälkeesi ja työnnä koskettavia nappuloita hylkimissäännöillä.",
