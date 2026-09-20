@@ -3,6 +3,15 @@
   "subtitle": "Avaa peli tai asenna se aloitusnäyttöön.",
   "games": [
     {
+      "id": "fivealive",
+      "name": "5Alive",
+      "goal": "Korttipeli 2-6 pelaajalle: pelaa kortteja niin, ettei kokonaissumma ylitä 21:tä, käytä erikoiskortteja ja pysy viimeisenä pelaajana mukana.",
+      "tags": ["korttipeli", "moninpeli", "ipad/pc"],
+      "startUrl": "https://ymouse91.github.io/fivealive/",
+      "manifestUrl": "https://ymouse91.github.io/fivealive/manifest.webmanifest",
+      "iconFallback": "https://ymouse91.github.io/fivealive/icon.svg"
+    },
+    {
       "id": "tacta",
       "name": "TACTA",
       "goal": "Kortinasettelupeli 2–6 pelaajalle: aseta kortteja pelialueelle muotojen ja merkintöjen mukaan, valitse pelimuoto ja laske pisteet pelin päättyessä.",
