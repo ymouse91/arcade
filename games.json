@@ -3,6 +3,24 @@
   "subtitle": "Avaa peli tai asenna se aloitusnäyttöön.",
   "games": [
     {
+      "id": "cryptid",
+      "name": "Cryptid",
+      "goal": "Cryptid Companion -apuohjelma Cryptid-lautapeliin: selaa vihjeitä ja käytä sovellusta pelin tukena.",
+      "tags": ["työkalu", "lautapeli", "päättely"],
+      "startUrl": "https://ymouse91.github.io/cryptid/",
+      "manifestUrl": "https://ymouse91.github.io/cryptid/manifest.webmanifest",
+      "iconFallback": "https://ymouse91.github.io/cryptid/img/icons/icon-192.png"
+    },
+    {
+      "id": "skyjo",
+      "name": "Skyjo",
+      "goal": "Skyjo pass-and-play -korttipeli 2-8 pelaajalle: vaihda ja paljasta kortteja, vältä isoja miinuksia ja tavoittele pienintä pistemäärää.",
+      "tags": ["korttipeli", "moninpeli", "ipad/pc"],
+      "startUrl": "https://ymouse91.github.io/skyjo/",
+      "manifestUrl": "https://ymouse91.github.io/skyjo/manifest.webmanifest",
+      "iconFallback": "https://ymouse91.github.io/skyjo/icons/icon-192.png"
+    },
+    {
       "id": "fivealive",
       "name": "5Alive",
       "goal": "Korttipeli 2-6 pelaajalle: pelaa kortteja niin, ettei kokonaissumma ylitä 21:tä, käytä erikoiskortteja ja pysy viimeisenä pelaajana mukana.",
