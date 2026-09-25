@@ -5,8 +5,8 @@
     {
       "id": "cryptid",
       "name": "Cryptid",
-      "goal": "Cryptid Companion -apuohjelma Cryptid-lautapeliin: selaa vihjeitä ja käytä sovellusta pelin tukena.",
-      "tags": ["työkalu", "lautapeli", "päättely"],
+      "goal": "Cryptid Companion -apuohjelma Cryptid-lautapeliin: selaa vihjeitä ja käytä sovellusta pelin tukena. Lisäksi soolopelimoodi AI-vastustajilla.",
+      "tags": ["työkalu", "lautapeli", "päättely", "moninpeli", "yksinpeli"],
       "startUrl": "https://ymouse91.github.io/cryptid/",
       "manifestUrl": "https://ymouse91.github.io/cryptid/manifest.webmanifest",
       "iconFallback": "https://ymouse91.github.io/cryptid/img/icons/icon-192.png"
