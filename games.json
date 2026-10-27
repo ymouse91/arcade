@@ -3,6 +3,15 @@
   "subtitle": "Avaa peli tai asenna se aloitusnäyttöön.",
   "games": [
     {
+      "id": "babaisyou",
+      "name": "Baba × Keke",
+      "goal": "Sääntöjä muuttava Baba Is You -lautapelin selainversio: pelaa Baballa ja Kekellä kaksin tai AI-vastustajaa vastaan.",
+      "tags": ["lautapeli", "kaksinpeli", "ai-vastustaja", "ipad/pc"],
+      "startUrl": "https://ymouse91.github.io/babaisyou/",
+      "manifestUrl": "https://ymouse91.github.io/babaisyou/manifest.webmanifest",
+      "iconFallback": "https://ymouse91.github.io/babaisyou/assets/icons/icon-192.png"
+    },
+    {
       "id": "cryptid",
       "name": "Cryptid",
       "goal": "Cryptid Companion -apuohjelma Cryptid-lautapeliin: selaa vihjeitä ja käytä sovellusta pelin tukena. Lisäksi soolopelimoodi AI-vastustajilla.",
