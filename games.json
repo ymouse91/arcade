@@ -3,6 +3,15 @@
   "subtitle": "Avaa peli tai asenna se aloitusnäyttöön.",
   "games": [
     {
+      "id": "aarrejahti",
+      "name": "Aarrejahti",
+      "goal": "Yhteisen kartan päättelypeli: ratkaise kuusi aarteenetsintäretkeä vihjeiden avulla samalla näytöllä.",
+      "tags": ["päättely", "pulmapeli", "moninpeli", "ipad/pc"],
+      "startUrl": "https://ymouse91.github.io/aarrejahti/",
+      "manifestUrl": "https://ymouse91.github.io/aarrejahti/manifest.webmanifest",
+      "iconFallback": "https://ymouse91.github.io/aarrejahti/icons/icon-192.png"
+    },
+    {
       "id": "babaisyou",
       "name": "Baba × Keke",
       "goal": "Sääntöjä muuttava Baba Is You -lautapelin selainversio: pelaa Baballa ja Kekellä kaksin tai AI-vastustajaa vastaan.",
