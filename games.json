@@ -22,7 +22,7 @@
     },
     {
       "id": "aarrejahti-generator",
-      "name": "Aarrejahti: karttakorttigeneraattori",
+      "name": "Aarrejahti: karttakortit",
       "goal": "Arvo uusia karttakortteja fyysiseen Aarrejahti-lautapeliin, valitse vaikeustaso ja tarkista retkien ratkaisut.",
       "tags": ["työkalu", "lautapeli", "haastegeneraattori"],
       "startUrl": "https://ymouse91.github.io/aarrejahti/generator/",
