@@ -21,6 +21,15 @@
       "iconFallback": "https://ymouse91.github.io/aarrejahti/icons/icon-192.png"
     },
     {
+      "id": "aarrejahti-generator",
+      "name": "Aarrejahti: karttakorttigeneraattori",
+      "goal": "Arvo uusia karttakortteja fyysiseen Aarrejahti-lautapeliin, valitse vaikeustaso ja tarkista retkien ratkaisut.",
+      "tags": ["työkalu", "lautapeli", "haastegeneraattori"],
+      "startUrl": "https://ymouse91.github.io/aarrejahti/generator/",
+      "manifestUrl": "https://ymouse91.github.io/aarrejahti/generator/manifest.webmanifest",
+      "iconFallback": "https://ymouse91.github.io/aarrejahti/generator/icons/icon-192.png"
+    },
+    {
       "id": "babaisyou",
       "name": "Baba × Keke",
       "goal": "Sääntöjä muuttava Baba Is You -lautapelin selainversio: pelaa Baballa ja Kekellä kaksin tai AI-vastustajaa vastaan.",
