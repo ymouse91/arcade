@@ -3,6 +3,15 @@
   "subtitle": "Avaa peli tai asenna se aloitusnäyttöön.",
   "games": [
     {
+      "id": "ruuhka",
+      "name": "Ruuhka",
+      "goal": "Neljän pelaajan Ruuhka-lautapeli kahdella pelitasolla: pelaa samalla laitteella muita pelaajia tai AI-vastustajia vastaan.",
+      "tags": ["lautapeli", "moninpeli", "ai-vastustaja", "ipad/pc"],
+      "startUrl": "https://ymouse91.github.io/ruuhka/",
+      "manifestUrl": "https://ymouse91.github.io/ruuhka/manifest.webmanifest",
+      "iconFallback": "https://ymouse91.github.io/ruuhka/icons/icon-192.png"
+    },
+    {
       "id": "aarrejahti",
       "name": "Aarrejahti",
       "goal": "Yhteisen kartan päättelypeli: ratkaise kuusi aarteenetsintäretkeä vihjeiden avulla samalla näytöllä.",
